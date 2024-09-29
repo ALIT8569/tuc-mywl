@@ -1,0 +1,104 @@
+SDK_INT = 33
+java.lang.NullPointerException: Attempt to invoke virtual method 'boolean c.e.c.d1.e()' on a null object reference
+	at c.e.a.p.run(Unknown Source:209)
+	at android.os.Handler.handleCallback(Handler.java:971)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loopOnce(Looper.java:206)
+	at android.os.Looper.loop(Looper.java:296)
+	at android.app.ActivityThread.main(ActivityThread.java:9205)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:591)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1027)
+MOBLE_INFO = BOARD=ANYCQ
+BOOTLOADER=unknown
+BRAND=HONOR
+BRAND_ORIGIN=HONOR
+CPU_ABI=armeabi-v7a
+CPU_ABI2=armeabi
+DEVICE=HNANY-Q
+DEVICE_ORIGIN=HNANY-Q
+DISPLAY=ANY-AN00 7.0.0.216(C00E206R2P3)
+FINGERPRINT=HONOR/ANY-AN00/HNANY-Q:13/HONORANY-AN00/7.1.0.216C00E206R2P3:user/release-keys
+FINGERPRINTEX=HONOR/ANY-AN00/HNANY-Q:13/HONORANY-AN00/7.1.0.216C00E206R2P3:user/release-keys
+HARDWARE=qcom
+HOST=cn-north1b-d9e70152f1720496383354-79d84c778b-z77xz
+HWFINGERPRINT=///ANY-LGRP1-CHN 7.0.0.216/ANY-AN00-CUST 7.1.0.206(C00)/ANY-AN00-PRELOAD 7.1.0.3(C00R2)//patch03
+ID=HONORANY-AN00
+IS_DEBUGGABLE=false
+IS_EMULATOR=false
+MANUFACTURER=HONOR
+MANUFACTURER_ORIGIN=HONOR
+MODEL=ANY-AN00
+MODEL_ORIGIN=ANY-AN00
+ODM_SKU=ANY-AN00
+PERMISSIONS_REVIEW_REQUIRED=true
+PRODUCT=ANY-AN00
+PRODUCT_ORIGIN=ANY-AN00
+RADIO=unknown
+SERIAL=unknown
+SKU=unknown
+SOC_MANUFACTURER=QTI
+SOC_MODEL=SM4350
+SUPPORTED_32_BIT_ABIS=[Ljava.lang.String;@15391f2
+SUPPORTED_64_BIT_ABIS=[Ljava.lang.String;@a391043
+SUPPORTED_ABIS=[Ljava.lang.String;@41286c0
+TAGS=release-keys
+TIME=1720496737000
+TYPE=user
+UNKNOWN=unknown
+USER=test
+
+java.lang.NullPointerException: Attempt to invoke virtual method 'boolean c.e.c.d1.e()' on a null object reference
+	at c.e.a.p.run(Unknown Source:209)
+	at android.os.Handler.handleCallback(Handler.java:971)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loopOnce(Looper.java:206)
+	at android.os.Looper.loop(Looper.java:296)
+	at android.app.ActivityThread.main(ActivityThread.java:9205)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:591)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1027)
+PRODUCT = ANY-AN00
+java.lang.NullPointerException: Attempt to invoke virtual method 'boolean c.e.c.d1.e()' on a null object reference
+	at c.e.a.p.run(Unknown Source:209)
+	at android.os.Handler.handleCallback(Handler.java:971)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loopOnce(Looper.java:206)
+	at android.os.Looper.loop(Looper.java:296)
+	at android.app.ActivityThread.main(ActivityThread.java:9205)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:591)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1027)
+MODEL = ANY-AN00
+java.lang.NullPointerException: Attempt to invoke virtual method 'boolean c.e.c.d1.e()' on a null object reference
+	at c.e.a.p.run(Unknown Source:209)
+	at android.os.Handler.handleCallback(Handler.java:971)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loopOnce(Looper.java:206)
+	at android.os.Looper.loop(Looper.java:296)
+	at android.app.ActivityThread.main(ActivityThread.java:9205)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:591)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1027)
+versionName = 5.2.0
+java.lang.NullPointerException: Attempt to invoke virtual method 'boolean c.e.c.d1.e()' on a null object reference
+	at c.e.a.p.run(Unknown Source:209)
+	at android.os.Handler.handleCallback(Handler.java:971)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loopOnce(Looper.java:206)
+	at android.os.Looper.loop(Looper.java:296)
+	at android.app.ActivityThread.main(ActivityThread.java:9205)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:591)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1027)
+versionCode = 21
+java.lang.NullPointerException: Attempt to invoke virtual method 'boolean c.e.c.d1.e()' on a null object reference
+	at c.e.a.p.run(Unknown Source:209)
+	at android.os.Handler.handleCallback(Handler.java:971)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loopOnce(Looper.java:206)
+	at android.os.Looper.loop(Looper.java:296)
+	at android.app.ActivityThread.main(ActivityThread.java:9205)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:591)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1027)
