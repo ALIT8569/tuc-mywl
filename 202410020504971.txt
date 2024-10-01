@@ -1,0 +1,1129 @@
+--------解密网站：http://111.229.253.40:559 交流QQ群1：1163524676 群2：722175118-------- 
+  
+移动央视,#genre# 
+CCTV-1 综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003224&user=96926859&tsum=724c8ac00deafa49bf775ac006f2124a 
+CCTV-2 财经,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003225&user=96926859&tsum=a42410cd21321cbf63af05b744c0ca2b 
+CCTV-3 综艺,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003226&user=96926859&tsum=e9e21f2e80396e80b041700109d4942c 
+CCTV-4 中文国际,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003227&user=96926859&tsum=37568cd34866e959b53efe131f77d457 
+CCTV-5 体育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003228&user=96926859&tsum=29582fc400aa0931865a43c982c1e676 
+CCTV-5+ 体育赛事,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003229&user=96926859&tsum=adc5e3f6dd9e8463b297854e9a1bc052 
+CCTV-6 电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003230&user=96926859&tsum=ab90d0f447958383be8b1651b164b027 
+CCTV-7 国防军事,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003231&user=96926859&tsum=be8d64449a4e1013f94fb1be320f7ef5 
+CCTV-8 电视剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003232&user=96926859&tsum=a2d3880eba68baf2f122eba716d00a44 
+CCTV-9 纪录,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003233&user=96926859&tsum=015e39e92833b0b5a054f5b453181553 
+CCTV-10 科教,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003234&user=96926859&tsum=b7120d834517ee61de4689a3fdccc528 
+CCTV-11 戏曲,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003235&user=96926859&tsum=7e5b2c5f98e085671374c460fe6a7f79 
+CCTV-12 社会与法,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003236&user=96926859&tsum=1cb84919287e8d810beafa4d8b250c4f 
+CCTV-13 新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003237&user=96926859&tsum=ecdd061105ba59e61b7c0f0852c1a94a 
+CCTV-14 少儿,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003238&user=96926859&tsum=b014d6300d307b683d90995c1cd0e402 
+CCTV-15 音乐,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003239&user=96926859&tsum=142813fcc4af5abaa5708a74814c4e29 
+CCTV-16 奥林匹克,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003240&user=96926859&tsum=725b750633ef94e1a8a2c85764b7db20 
+CCTV-17 农业农村,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003241&user=96926859&tsum=42a9ffba904639a1b63a97207e551848 
+CGTN,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003242&user=96926859&tsum=1a465650539d519381dcf36fe431c92b 
+CGTN纪录,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003243&user=96926859&tsum=72f090f2d906ce0da769f2d5fe2bc87a 
+CGTN法语,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003244&user=96926859&tsum=991d1b93bb52c7eaff266e0d41b30d6a 
+CGTN俄语,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003245&user=96926859&tsum=aef583a79fe1138f7e65d1a5d4a30482 
+CGTN西班牙语,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003246&user=96926859&tsum=f3eb7fb2bcb2cc0874c795964da432a1 
+CGTN阿拉伯语,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003247&user=96926859&tsum=d1181c5f0936e7e274c857fb55d3c0fb 
+CETV-1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003248&user=96926859&tsum=3946f7bfe7177d7e3a2bd8411a3a0d48 
+CETV-2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003249&user=96926859&tsum=4a5c5c1c7d9455286989b28cb768150f 
+CETV-4,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003250&user=96926859&tsum=a035768a5c172b4d6260934019705236 
+移动卫视,#genre# 
+北京卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003327&user=96926859&tsum=d828ae5848f0d40f150243d583f2abee 
+东方卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003328&user=96926859&tsum=3ff49e8057ce99f497e91baf544e85c7 
+浙江卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003329&user=96926859&tsum=4e49e97391f2d0ad517a617463282e1b 
+江苏卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003330&user=96926859&tsum=18dd1888487c3777a27afe581ac5db69 
+湖南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003331&user=96926859&tsum=f77db0b4999a94d1a4a4a1b56ea6f9ce 
+深圳卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003332&user=96926859&tsum=e4e9895cde131d259c225190d1edae96 
+天津卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003333&user=96926859&tsum=fea64b1d2e22e84b52015c613ea6e5eb 
+广东卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003334&user=96926859&tsum=f6e21ac53ae71fc666f2f48d60d81eee 
+黑龙江卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003335&user=96926859&tsum=c7f82970c9f0be7e717d1b7f119888b7 
+安徽卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003336&user=96926859&tsum=00fd6ce4fcf0078d204bb23db2dd2d4e 
+辽宁卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003337&user=96926859&tsum=6150ec23083157522b9c52f569fd1b85 
+四川卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003338&user=96926859&tsum=8608bfa9b76cf2cabb2c2cb68494b334 
+重庆卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003339&user=96926859&tsum=d2bcaf6b024a963bc2ee61175dec2fc8 
+贵州卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003340&user=96926859&tsum=ef02e96c9f82196d45d730ad9410550f 
+江西卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003341&user=96926859&tsum=92efaf518f2f20de313a7fe9049c9876 
+东南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003342&user=96926859&tsum=c65eff7afcf084957fedbf0f6039765e 
+湖北卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003343&user=96926859&tsum=1ba2758add1d66c26945150774975f7d 
+河南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003344&user=96926859&tsum=c70d310b35bca97aa802c379370227d6 
+山东卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003345&user=96926859&tsum=4c3c25b5ff7b88423aeef95d3f995e6a 
+海南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003346&user=96926859&tsum=3ea736b5978f577fe9de4f093b836496 
+吉林卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003347&user=96926859&tsum=73350d4a1f074ad8a80a9ecb80e12404 
+陕西卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003348&user=96926859&tsum=6bee873a2a9d40a85ab489bb17c5b3a6 
+内蒙古卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003349&user=96926859&tsum=2b2c4402c72ca351cb7434e9cff20deb 
+西藏卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003350&user=96926859&tsum=fdee15ea280efff51d914a4098cfd0e3 
+河北卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003351&user=96926859&tsum=b4bb6bc5a57992bd7fdaf692845ec1d8 
+宁夏卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003352&user=96926859&tsum=e7c3ffbe7f7bc6f879a89cb4c236a7cb 
+云南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003353&user=96926859&tsum=e053f2b805a2120d081a25e7cd9ac761 
+山西卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003354&user=96926859&tsum=67ba149148bb80cb8c6490777d29ca95 
+甘肃卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003355&user=96926859&tsum=51a70af2d0d4144c3f43a7dfbc9a8af0 
+新疆卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003356&user=96926859&tsum=f7d93dcffde94e986f38d27e02bb272d 
+兵团卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003357&user=96926859&tsum=32824e0ca49150277886f34b27ae2585 
+青海卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003360&user=96926859&tsum=8f6033b33e4cf9988a1057e2326ffbf1 
+上海东方卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003366&user=96926859&tsum=f0218be95b29f00362626efffccea6d6 
+黑龙江影视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003368&user=96926859&tsum=f0378f3061541f02ae522da2fcc15d25 
+黑龙江新闻法治,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003369&user=96926859&tsum=6f992fc38b859f41b5391c54959323a2 
+黑龙江少儿,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003370&user=96926859&tsum=58bcec3cc70e096f646169b52551951f 
+广西卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003373&user=96926859&tsum=763301cdfbf72eadaffbeb7baf3ca1fa 
+安多卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003377&user=96926859&tsum=b2dde905c41da765fe19f94ae43a9295 
+康巴卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003378&user=96926859&tsum=2dee6fe9f4602546c6c4ab8baa1f8ae2 
+黑龙江文体,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003382&user=96926859&tsum=056f36ea3b8879ec8fded16ff3d523ea 
+黑龙江都市,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003383&user=96926859&tsum=074a86f118e7a4ccb144ecb3419328ee 
+黑龙江农业科教,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003393&user=96926859&tsum=217ac39e28fda0943ac5b2f545fd6470 
+深圳卫视-SD,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003399&user=96926859&tsum=be8e7735243753493a9deb84bf1d9acc 
+延边,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003401&user=96926859&tsum=32f06382b094d73db26e208d78e2264c 
+极速央视,#genre# 
+CCTV1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005810&user=96926859&tsum=4ec4b56e1ac96e6325335151f3488a44 
+CCTV2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005818&user=96926859&tsum=d42cfbdb645d9ce690defd706ffc1b55 
+CCTV3,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005822&user=96926859&tsum=14d2b8791911f04b521503e8b37f76d1 
+CCTV4,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005825&user=96926859&tsum=26596f865f317460009df2e34ccd94c0 
+CCTV4欧洲,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005832&user=96926859&tsum=6bcf0109374c410746a47677ad8218af 
+CCTV5,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005833&user=96926859&tsum=a21acc343b6e44ebb225e480dd289f5b 
+CCTV5+,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005837&user=96926859&tsum=008cb554e34d091103d4f481a8668db6 
+CCTV6,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005839&user=96926859&tsum=ec0b5634d0af30f3f284a7395d94456f 
+CCTV7,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005842&user=96926859&tsum=d33da5c3bf3b2029678ebf8ab31dd927 
+CCTV8,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005846&user=96926859&tsum=34382182b30790438bc6bc69a8760e33 
+CCTV9,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005849&user=96926859&tsum=c5ffd4ac09610828d36df265c376bfbe 
+CCTV10,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005853&user=96926859&tsum=4764c8cc7de0287a1601e305225f8ca7 
+CCTV11,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005857&user=96926859&tsum=4aec9d629d23efe909ad4a1813edd787 
+CCTV12,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005860&user=96926859&tsum=5919040c7ac016abb63b13d15dd5dd12 
+CCTV13,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005865&user=96926859&tsum=48220d08c2ec165b98f8d553f366ee10 
+CCTV14,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005868&user=96926859&tsum=0e51b3fc143b95a7d91af71469c19881 
+CCTV15,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005872&user=96926859&tsum=816119e42e907b495bc86e2168b142b8 
+CCTV16,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005875&user=96926859&tsum=e3dcbeb0044a29ec5e46a404c1ff93c7 
+CCTV17,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005878&user=96926859&tsum=ebc82cf6838c6ce78f5ae30c46b75000 
+CCTV风云音乐,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005881&user=96926859&tsum=1ef0465e80980a704807fa487b36f03a 
+CCTV世界地理,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005883&user=96926859&tsum=a1eccf408cb3a96600187392fa719d56 
+CCTV第一剧场,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005885&user=96926859&tsum=90bf88bc97afb403f9e4ee1684b7aa2c 
+CCTV风云剧场,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005887&user=96926859&tsum=b2bde0e6c26d00bc782b110e91fe75ef 
+CCTV央视精品,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005889&user=96926859&tsum=7bf8d62e8b4ee45d0fa7dbbdd721448b 
+CCTV兵器科技,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005895&user=96926859&tsum=65d9548d71d3da8c3f337acc0b598d00 
+CCTV风云足球,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005897&user=96926859&tsum=597fdb7409df15ba56c22169e28ad5d0 
+CCTV高网频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005899&user=96926859&tsum=875f6f4a61b1ff142320fad7afecbf7a 
+CCTV怀旧剧场,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005901&user=96926859&tsum=4d4a72d04f384645f0deda413941c4d5 
+CCTV女性时尚,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005903&user=96926859&tsum=505947c6ee16efa0e035f5a6d1b5f69e 
+CCTV央视台球,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005905&user=96926859&tsum=36b4d7ce1ef1f1e6ca3c3c0e15d067d9 
+CCTV电视指南,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005907&user=96926859&tsum=b450a2c99ddef7ef365841229bc80f07 
+极速卫视,#genre# 
+湖南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005909&user=96926859&tsum=4528b11d70ad59689be8577c22651e5c 
+浙江卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005913&user=96926859&tsum=fbb068477bd0f70c6b0239c32cd5bd49 
+江苏卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005917&user=96926859&tsum=1836b2b9818b4d1ef8cedc0c0bac640a 
+北京卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005921&user=96926859&tsum=b07bbc52edb36942041262a0071cf687 
+东方卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005924&user=96926859&tsum=38df624e1afd87a135b57d8a7ee9d1e0 
+安徽卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005927&user=96926859&tsum=20b386b546f54ca36f64e60dbba57b32 
+广东卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005930&user=96926859&tsum=04eef6fae32d43278728048aefa86934 
+深圳卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005936&user=96926859&tsum=35dd50d012ba8d42cddb2483293d85f9 
+辽宁卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005941&user=96926859&tsum=f8cd71c78a41c84e405c725ed72b8a12 
+海南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005944&user=96926859&tsum=42a6487eec3189fb6cc3cd6372caf438 
+山东卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005946&user=96926859&tsum=252f82f8c632a94cf0af6e1afcb72b0b 
+天津卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005950&user=96926859&tsum=82ad525c706de5f11c8051f7ee99c06d 
+重庆卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005954&user=96926859&tsum=5cc42d713024d5e6ba2aa012249fe272 
+东南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005956&user=96926859&tsum=ab8f0df38a674b368cd4cebd248df287 
+甘肃卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005958&user=96926859&tsum=36af9c4d937886bb2798fe7d1f2f755f 
+广西卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005960&user=96926859&tsum=6c780a5125c51f34632c1f32faf1cbdf 
+贵州卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005962&user=96926859&tsum=4713e8147d12d19a08b6bea770b0bdd8 
+河北卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005964&user=96926859&tsum=0e77cc416155effec106c9976c626409 
+黑龙江卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005966&user=96926859&tsum=d53d54d2dc2a80166d742743d5fc2298 
+河南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005970&user=96926859&tsum=8789475093d51851149849ab8849365a 
+湖北卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005972&user=96926859&tsum=1f767e3a60cc78bff680409f2a9982cf 
+江西卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005976&user=96926859&tsum=fc30345c5eb17a47e09f0d43d345db85 
+吉林卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005978&user=96926859&tsum=1492bf06c68c3d998c18a985bf70de55 
+内蒙古卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005980&user=96926859&tsum=8b4b205f60f02912a31ce0070fc8d4d3 
+宁夏卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005982&user=96926859&tsum=d05c90e7650f4a6aa92ffbe9f7e73556 
+山西卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005983&user=96926859&tsum=433094cc4b3a10e61d9093c206f746b8 
+陕西卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005985&user=96926859&tsum=8cd7664a4294183e1b84c14f6f182ad9 
+四川卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005987&user=96926859&tsum=b6f14c2a738212dc2ba108c80ac338ff 
+新疆卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005990&user=96926859&tsum=9076a2816ae43dca247a666e4698b889 
+云南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005992&user=96926859&tsum=ed12e30e7759dd8e53d5afc220aedadb 
+厦门卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005994&user=96926859&tsum=21982a17d193e6df26ca971c201eb14d 
+青海卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005995&user=96926859&tsum=cb218b152d9d06a14646790ff16e2f43 
+西藏卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005998&user=96926859&tsum=6b98eeae2536ae7b7537088a14240d44 
+兵团卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006000&user=96926859&tsum=d313fde1eb36eec07c55508b25c13e52 
+延边卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006002&user=96926859&tsum=cbf9c09a5f7adecdc45938db3d390909 
+三沙卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006004&user=96926859&tsum=05891d9a6be800a42560ad8e92efda02 
+大湾区卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006006&user=96926859&tsum=35755d997adb82536767fdd6fa990351 
+哈哈炫动,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006009&user=96926859&tsum=d6fbe0f079b0baa06a23f1f8880fe771 
+金鹰卡通,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006011&user=96926859&tsum=28f57570dd84185abe14ba2b5fa35799 
+嘉佳卡通,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006014&user=96926859&tsum=0608624801bc24af57a54778f1992117 
+优漫卡通,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006017&user=96926859&tsum=da473e5bb40afcad5b700763e2cbb384 
+国学频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006019&user=96926859&tsum=eccc52b72cd3fb2bbd07529b912fe524 
+中国天气,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006021&user=96926859&tsum=7a424b2734787cef8447b1b0d209cec0 
+求索动物,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006022&user=96926859&tsum=bc994e2a59e6dff5f9d00fc0cdd8fe08 
+求索记录,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006023&user=96926859&tsum=9212502922e790c25d1ab2827ff13cb1 
+天元围棋,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006024&user=96926859&tsum=279de63f8b53b1b39ab79483aa0e035f 
+茶频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006025&user=96926859&tsum=871e70430d8005daacea8933f44a5722 
+武术世界,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006026&user=96926859&tsum=a38360f70cbba9f285cce88f5c24ea1f 
+发现之旅,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006027&user=96926859&tsum=77dce9236bc07ef070c2db3d48d0305b 
+环球奇观,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006029&user=96926859&tsum=46da2f79f43bcbb1b9f68680bcc990e6 
+文物宝库,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006030&user=96926859&tsum=2c7ab8fe8799c084d7cc027dba360cb9 
+老故事,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006031&user=96926859&tsum=2385b8ac763e65dbb67ae270cc30e962 
+快乐垂钓,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006033&user=96926859&tsum=dc362b19c2a32e650ab0496bbb668ac2 
+书画频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006034&user=96926859&tsum=cde8911ac45c452d2dbd45e4a49c4c77 
+车迷频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006035&user=96926859&tsum=be3a940c986c1b3113835573da28d4f9 
+财富天下,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006036&user=96926859&tsum=03e9980a5b313ae3db2b6c545e982297 
+影迷电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006037&user=96926859&tsum=ce7dd11b9df2f88619dfb709d2622a9d 
+经典电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006038&user=96926859&tsum=487ac45f6cca2d00bd114cfa6ded2dbf 
+中国教育1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006040&user=96926859&tsum=e9f2a9a63bd6d03493e546c63ad50db2 
+中国教育2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006042&user=96926859&tsum=38d1fac29e9e310ba6d5bfe420849cfe 
+中国教育4,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006044&user=96926859&tsum=8ab2e44154ff9df7eb5f923db118cd09 
+早期教育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006047&user=96926859&tsum=65e81cab59de5d295b7ce64d78bf04ed 
+CGTN,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006048&user=96926859&tsum=4c8772a41a19b0efbaf4166e20f5aa91 
+五星体育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006056&user=96926859&tsum=1443c487ef57dc9080fe33a710175e5f 
+山东教育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006057&user=96926859&tsum=fc37c7da780cffdd0c13c628db1855f5 
+金鹰纪实,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006059&user=96926859&tsum=de4e948f2de3251359a0fbd86ff2cf49 
+全网央视,#genre# 
+CCTV 1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004126&user=96926859&tsum=c8e1670547aedcdfab2755cad54563b6 
+CCTV 1 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004127&user=96926859&tsum=cb32fc58a8aab0577b8f2f13bb957d69 
+CCTV 1 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004128&user=96926859&tsum=4ad8a708e68c764d7f3458bfef786558 
+CCTV 2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004129&user=96926859&tsum=12b83e3357b02c0ab41de0565293f18c 
+CCTV 2 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004130&user=96926859&tsum=65d7b8c25a93c2a7ba72d83c52993841 
+CCTV 3,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004131&user=96926859&tsum=8dd6e6e7488eb0b89a318291bc67701a 
+CCTV 3 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004132&user=96926859&tsum=4573b05cdb5326e912d47dbc87d74d12 
+CCTV 4 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004133&user=96926859&tsum=ac33ef1b7f8bce5671d20bdbe901a928 
+CCTV 4 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004134&user=96926859&tsum=97b025855fdb74144bed072dc7b1d34c 
+CCTV 5,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004135&user=96926859&tsum=e3228f8ac9a1e3b05f7482c8da14cd0f 
+CCTV 5 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004136&user=96926859&tsum=3aec4c2b6b0960ee9cae1bac27d87345 
+CCTV 5+,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004137&user=96926859&tsum=17e4cbbdc42e9e125ec69a6546d8943c 
+CCTV 5+ HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004138&user=96926859&tsum=b9a760278fd07780b4b90d682ffce93d 
+CCTV 6,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004139&user=96926859&tsum=397e6dd7e34595e3503d8a56f15d866b 
+CCTV 6 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004140&user=96926859&tsum=39848c22245d1f01e37604fe22234a05 
+CCTV 6 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004141&user=96926859&tsum=d0d0e2311d01509c239803d2057c0868 
+CCTV 7,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004142&user=96926859&tsum=720c8c6fbec1380b6347d5cb7e395761 
+CCTV 7 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004143&user=96926859&tsum=aeb083312bb5a460491a8dfa158d67ce 
+CCTV 7 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004144&user=96926859&tsum=a88f50a7f506e75eca05c148ded86ad1 
+CCTV 8,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004145&user=96926859&tsum=f3a5615acead46470b15b6041695bcf0 
+CCTV 8 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004146&user=96926859&tsum=7b20402c85c78f7894c6e88c3153f97b 
+CCTV 9,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004147&user=96926859&tsum=4aeb30ce238b37c7976d9275450b5cad 
+CCTV 9 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004148&user=96926859&tsum=2cbb6d3c1436f0cdc782a2846e0c0cf4 
+CCTV 9 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004149&user=96926859&tsum=74dc103d9e93377623332ff2faff05e2 
+CCTV 10,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004150&user=96926859&tsum=836c307e31ee8e070024d49f9f068a85 
+CCTV 10 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004151&user=96926859&tsum=826fda65618fd887e809e1635f86f752 
+CCTV 10 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004152&user=96926859&tsum=0ff1769ecf3d54476481a08043049ca8 
+CCTV 11 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004153&user=96926859&tsum=e942b94ef699a1cb1f01138f6a8c32cd 
+CCTV 11 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004154&user=96926859&tsum=e1931dab7e9b10422c83cea1896d1648 
+CCTV 12,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004155&user=96926859&tsum=68d8c01bc74374e23859cbaa200a6a38 
+CCTV 12 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004156&user=96926859&tsum=0ad740a5f2629befccdefc86e987ec68 
+CCTV 12 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004157&user=96926859&tsum=fd5d52d9616cfeda02b77bfa259b24ca 
+CCTV 13 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004158&user=96926859&tsum=3d85d8f1d6f2ec38369dec09915be289 
+CCTV 14,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004159&user=96926859&tsum=2541ca65af8d6babde9e544ba8b82ca2 
+CCTV 14 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004160&user=96926859&tsum=4519c8f0be3950001cc0cb6bda5b4fda 
+CCTV 14 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004161&user=96926859&tsum=0fb27e7a211d46af1e9d0da3d552679c 
+CCTV 15 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004162&user=96926859&tsum=78b90299cd6640d1c9fe0bd6cb6a2978 
+CCTV 15 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004163&user=96926859&tsum=8301727a756b381cda658292b2458ec2 
+CCTV 16,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004164&user=96926859&tsum=2f0a5bf8806fb13c428aa0a187301d9e 
+CCTV 16 4K HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004165&user=96926859&tsum=96e7110d883e5183856fa7635c76845d 
+CCTV 17,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004166&user=96926859&tsum=c21acfcb251971c24389aac96fc1373f 
+CCTV 17 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004167&user=96926859&tsum=a164b6242b725d99088b0920a1c76087 
+CGTN,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004168&user=96926859&tsum=59a42270de6574e0dfdc7ce0df7a0e98 
+CGTN 记录,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004169&user=96926859&tsum=3f5873a3bffa11fcf20d77f337ebe41b 
+中国教育电视台 1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004170&user=96926859&tsum=fabada06d65cff597d635ff6b422fd55 
+中国教育电视台 4,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004171&user=96926859&tsum=ac7b3b91c1e1c58abc7306ddc2e1e4b8 
+全网卫视,#genre# 
+北京卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006180&user=96926859&tsum=c8021cb1762e0a54b70c62b1e19f06ad 
+北京卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006181&user=96926859&tsum=77b931efb9db34851670b01d6e55d078 
+安徽卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006182&user=96926859&tsum=d32adf898d90281ce688568fb65c983c 
+安徽卫视 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006183&user=96926859&tsum=a410ee1981543f9107a31a88c789c9c7 
+安徽卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006184&user=96926859&tsum=7349f828f749183182bef5786ea2db43 
+东南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006185&user=96926859&tsum=8a209ee1a9b40097ee2a237554c465ee 
+东南卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006186&user=96926859&tsum=d7c6a84462ba0ebf76fa08796cb7c205 
+甘肃卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006187&user=96926859&tsum=c1dafbc7e10fe6a06a8e83d316ed43db 
+广东卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006188&user=96926859&tsum=926802f067db7b33b522c6dca0356b6c 
+广东卫视 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006189&user=96926859&tsum=1808a248b0d2f5853db7125d92a767c2 
+广东卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006190&user=96926859&tsum=4b78363f349deb10b8089fdb48471b6d 
+广西卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006191&user=96926859&tsum=97507c319e63b570195ca06ce403e8a8 
+贵州卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006192&user=96926859&tsum=c256bc3a069ecc35de70f01d9d4d761b 
+海南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006193&user=96926859&tsum=5b929ff010838fe637c31e8f0b26f1a0 
+河北卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006194&user=96926859&tsum=c2a62984d55e0e228e8c79c472483377 
+河南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006195&user=96926859&tsum=23c0b1473ac847c7b49400a0b29b519c 
+黑龙江卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006196&user=96926859&tsum=f9f34a1d20d7af13b0ed6699e9494876 
+黑龙江卫视 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006197&user=96926859&tsum=ad55e572ce2bd85ab9a600a47a587b8f 
+黑龙江卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006198&user=96926859&tsum=bea7a3a16badaad518387e62d0aa8af6 
+湖北卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006199&user=96926859&tsum=555acbb88e658d027fbf1ea0ef6aaf3c 
+湖北卫视 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006200&user=96926859&tsum=7e687f2b6f3d0527e88eb895ca16baae 
+湖北卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006201&user=96926859&tsum=f375ae01aefd842fe85d77a03f3810bf 
+湖南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006202&user=96926859&tsum=6ea606c61df58d5355991b892a642926 
+湖南卫视 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006203&user=96926859&tsum=0d730e4cfc166070b80b5d0136464176 
+湖南卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006204&user=96926859&tsum=ebd5f52d21f49ccb974e5dbf53e7b9ea 
+吉林卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006205&user=96926859&tsum=741a1d3b0432aa394f87caf36dee6595 
+江苏卫视 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006206&user=96926859&tsum=0e38c2050b51a99b34c8a62ea62ad573 
+江苏卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006207&user=96926859&tsum=765707ea0aff49eeb406da11b787232f 
+江苏卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006208&user=96926859&tsum=7b11812b3554a204c6da44f64728bcd5 
+江西卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006209&user=96926859&tsum=175f697e32baa7769c470a747e78ed9c 
+江西卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006210&user=96926859&tsum=3bc7dc09cf1d0983897731114af149c3 
+辽宁卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006211&user=96926859&tsum=9709fc4644da2d4edb4ad4702cf1fb31 
+辽宁卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006212&user=96926859&tsum=1606bed85bd381f332160124ce6b9f88 
+青海卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006213&user=96926859&tsum=2a98bafbcfbd67dd1f439fc190fa80fc 
+山东卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006214&user=96926859&tsum=b1dc9104182df4527216bcfca061f76d 
+山东卫视 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006215&user=96926859&tsum=fe1cf1f000c1f700f95e6fc09aa4a921 
+山东卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006216&user=96926859&tsum=0a5d96bb89a89315a8bc0816f4783a18 
+上海东方卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006217&user=96926859&tsum=77e881611bdcefcb83b013b4b6a5e8d5 
+上海东方卫视 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006218&user=96926859&tsum=ada7bfe786f7af7df543c09029669fed 
+上海东方卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006219&user=96926859&tsum=84998f0e6cbe3bf9d0ad280389708949 
+深圳卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006220&user=96926859&tsum=844af9438d7d14463ad958f57959d00f 
+深圳卫视 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006221&user=96926859&tsum=eba5400728c4fd589d26ea6794327127 
+深圳卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006222&user=96926859&tsum=fa4a41762d5023b74a429d933fdcab69 
+四川卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006223&user=96926859&tsum=0a0e362ef2c6d43673049793099497e5 
+天津卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006224&user=96926859&tsum=d8f6e932a2f4e82a7bab793788bda1a6 
+天津卫视 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006225&user=96926859&tsum=f3f182fe9461c1e000288cd62ee4bc1b 
+天津卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006226&user=96926859&tsum=2713efe3d8dc2e2bacffcc8f74cff76f 
+云南卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006227&user=96926859&tsum=88d6b6395ad509f0b26c2aad976e12a4 
+浙江卫视 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006228&user=96926859&tsum=39e80ab3fdfb0065275b307d03907001 
+浙江卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006229&user=96926859&tsum=89cd665b720c57da17e2daa317efb8c1 
+浙江卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006230&user=96926859&tsum=43e793d4dca1987a12eea5633e64c9c1 
+重庆卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006231&user=96926859&tsum=f0855a4885c8549a36060e8289799039 
+重庆卫视 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006232&user=96926859&tsum=707a1431a17fd52a3f1d9d417e321a7b 
+北京纪实科教,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006233&user=96926859&tsum=f350a33e1cded4ffb0a7ef5c9a9a1a08 
+北京纪实科教 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006234&user=96926859&tsum=fc2643d0d93df2c217f7803b60ed9c60 
+北京卡酷少儿,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006235&user=96926859&tsum=e1c8827ed00cf311d6191de56e2ad778 
+湖南金鹰纪实,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006236&user=96926859&tsum=01492ded56f15697c7e7106732618de7 
+湖南快乐垂钓,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006237&user=96926859&tsum=b2992c922c5c53b8373281b7ab9511b6 
+湖南茶频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006238&user=96926859&tsum=201f5bc2bc1c73f3725c11f9e2b0a559 
+上海 ICS 外语,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006239&user=96926859&tsum=c84c4de5d29c23e62e1bae6db6d825f8 
+上海第一财经,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006240&user=96926859&tsum=cac201580cf2ce1dc456d31a95ae8ac2 
+上海东方财经,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006241&user=96926859&tsum=83c36ae796400adc0fe764032af09199 
+上海东方影视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006242&user=96926859&tsum=a0693540f543826782d4e91fe82a01e2 
+上海都市,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006243&user=96926859&tsum=66e4ae026e6bbf987ae03e455bed5c9f 
+上海法治天地,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006244&user=96926859&tsum=c6221c272c0074994be6f298b4c6995f 
+上海哈哈炫动,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006245&user=96926859&tsum=d0a75f0cad9efc5c557ab249b6de9c68 
+上海纪实人文 50 FPS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006246&user=96926859&tsum=c20076f8381e96e96ba52df46de1dc93 
+上海纪实人文 HEVC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006247&user=96926859&tsum=3e2ccbc86acc43e944f1c98b2d9f0649 
+上海五星体育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006248&user=96926859&tsum=b50dbc892cfcb28ced667633fbea4271 
+上海新闻综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006249&user=96926859&tsum=3a46905bc8467677c36aaa8e68b926c1 
+广东频道,#genre# 
+广东卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005277&user=96926859&tsum=9279819892f4d87384e752713d87c74f 
+广东卫视高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005279&user=96926859&tsum=08f3abb4970682a0b09b87eec6b67d25 
+广东卫视超清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005283&user=96926859&tsum=bacf3ebc953655bfaa9841e23ccb7bc0 
+广东珠江,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005284&user=96926859&tsum=67f7156b84961077156bdaff4ca97db4 
+广东珠江高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005286&user=96926859&tsum=4116ad89f15bd608d42662118bcf5c55 
+广东珠江超清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005287&user=96926859&tsum=4e8ce2bb2705ec2763056e744f1a0fcb 
+广东新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005288&user=96926859&tsum=1abfab6f279d8f7be697df39eb4707ee 
+广东新闻高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005289&user=96926859&tsum=f645b06786910413b22a8d4b1649f0db 
+广东公共,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005290&user=96926859&tsum=7058669362fde9e1783ad8aecb2902a3 
+广东公共高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005291&user=96926859&tsum=702eb9d98e90d6e28e798605702ba5bd 
+广东体育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005292&user=96926859&tsum=81245e117cb49b94a57a0757c2a4c67b 
+广东体育（深圳）,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005293&user=96926859&tsum=c218a51f0d66857f930a23224f451a2d 
+广东体育高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005294&user=96926859&tsum=06492a8729cd055d050a87dca9b5b8d9 
+广东体育超清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005295&user=96926859&tsum=0584897169af44970c99dc7f5e1b742f 
+广东国际,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005296&user=96926859&tsum=1cb0c911a99e1916bd1f579160283ce0 
+经济科教,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005297&user=96926859&tsum=bab223d1696f41b7743204e46e4a6f54 
+经济科教高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005298&user=96926859&tsum=efce3e46ce4e9ddf4006c42c2567adf1 
+经济科教超清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005299&user=96926859&tsum=39509b36556f35285d74626ecd37ccce 
+南方卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005300&user=96926859&tsum=de05fe68fe32b0fc3972b3081141f261 
+南方卫视高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005301&user=96926859&tsum=0e7c3998d2ebcb1bfaf71aa5872b3553 
+广东影视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005303&user=96926859&tsum=62432831a55334d0e423f1ab4119d91a 
+广东影视高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005304&user=96926859&tsum=f7f7176cc03fa020a64392dca68fdfbd 
+广东少儿,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005305&user=96926859&tsum=a7ed9e8ee4e84e850fb4a69b60952a10 
+广东少儿高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005306&user=96926859&tsum=a2ea9cc2773c7ea73689a7cfac284f3b 
+嘉佳卡通,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005307&user=96926859&tsum=be94a248ed5d92eb1eb53966294449cd 
+嘉佳卡通高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005309&user=96926859&tsum=7dfd546101a635b2ca2d8f1b889bf6bf 
+南方购物-精选,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005310&user=96926859&tsum=240241c5b884702558bae0663b64c9c5 
+南方购物,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005311&user=96926859&tsum=61d0c461202cda97e2c08944f8800e87 
+岭南戏曲,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005312&user=96926859&tsum=d49e2479fb7fbe19800ef4aaf8e180b5 
+广东房产,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005313&user=96926859&tsum=cf83b093559253dff38d74ff62e56e70 
+现代教育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005314&user=96926859&tsum=bfc7e87ece93485182f895a3961dbdb2 
+广东移动,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005315&user=96926859&tsum=9a6367e6580b9432b5db18893ae1f9c0 
+广东综艺 4K50p,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005316&user=96926859&tsum=306c1a8fb4070d12aa76b0856092993e 
+广东综艺 4K,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005317&user=96926859&tsum=deb55ff1f4c4330f964f925e43aaf401 
+广东综艺(4k),http://itv.425555.xyz/tvapi.php?tvplay&cid=1005318&user=96926859&tsum=598ac33be535dcb8d351e2bc7c637cdd 
+广东综艺 宽色域(4k),http://itv.425555.xyz/tvapi.php?tvplay&cid=1005319&user=96926859&tsum=65f95d8a6d772458c17683d905226398 
+广东综艺 宽色域AVS2(4k) (AVS2),http://itv.425555.xyz/tvapi.php?tvplay&cid=1005321&user=96926859&tsum=da402715afbd9d33eb9d4d0f0aa44690 
+广州综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005322&user=96926859&tsum=44ddc758cc7bb35aec79b02658c6cec1 
+广州综合高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005323&user=96926859&tsum=a45b2e3c6905b929539feefd4019d532 
+广州新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005324&user=96926859&tsum=9dfe524b19ccfa19829ae2a90dc80f1a 
+广州新闻高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005325&user=96926859&tsum=22f383ad4b413e50313d2133ed21864b 
+广州影视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005326&user=96926859&tsum=91d8867c5a96bdc6c84800f719e779a8 
+广州影视高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005327&user=96926859&tsum=5e3be7e4e160983388298d99cb9947ac 
+广州法治,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005328&user=96926859&tsum=2db29ed8d01d918119199a8236ea0f75 
+广州法治高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005329&user=96926859&tsum=d7ca184d7143b94481971ebb453402ed 
+广州竞赛,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005330&user=96926859&tsum=2b8ab8f8b2e9475068619f96133ad5bc 
+广州竞赛高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005331&user=96926859&tsum=1b14549c2f70ae60c7d1f6af83230bc2 
+南国都市4K,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005332&user=96926859&tsum=18dda316f78e91f6a9f1ae0f4a75c17c 
+广视课堂 小学一,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005333&user=96926859&tsum=11442966b53bd7857d18a46a615864ae 
+广视课堂 小学二,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005334&user=96926859&tsum=9e4638a192072f389486b14750fd7fa6 
+广视课堂 小学三,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005335&user=96926859&tsum=fa305dba42b957ce60b17ecbddf41076 
+广视课堂 小学四,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005336&user=96926859&tsum=16f565f6476ab1e821fdeb72a936e21c 
+广视课堂 小学五,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005337&user=96926859&tsum=5911d442a88801add01747ee5aabe02e 
+广视课堂 小学六,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005338&user=96926859&tsum=97b6b55555b8f7bac1be5c99e48e0f6b 
+广视课堂 初一,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005339&user=96926859&tsum=29eda7460937997f3d388a81a3b161aa 
+广视课堂 初二,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005340&user=96926859&tsum=311ca6afa1d6c669ae10b124dce036a1 
+广视课堂 初三,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005341&user=96926859&tsum=14cc3b19cc382be5f03b78c8b96cc985 
+广视课堂 高一,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005342&user=96926859&tsum=9a63a2f251c82e00fef9d115a3683761 
+广视课堂 高二,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005343&user=96926859&tsum=72bb785f9629d9ee227ba7363e9cfc95 
+深圳卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005344&user=96926859&tsum=e1196e9eb2e6ea8b2bc97658efeb0e8a 
+深圳卫视高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005346&user=96926859&tsum=ad32d6be6e60a9edf3a37df7e18f73d8 
+深圳卫视超清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005349&user=96926859&tsum=9143529dd5e7924d9e39b83e2a8e228f 
+深圳都市,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005350&user=96926859&tsum=6ceba78437ea1cea5e3840a81facd935 
+深圳都市高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005351&user=96926859&tsum=ba03d0041aeb07cac71669841677f41c 
+深圳电视剧频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005353&user=96926859&tsum=fc407d0f2d68c066ea1dfc8ed69f0186 
+深圳电视剧高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005354&user=96926859&tsum=06bacedb0fb2bf590993d8871054e21a 
+深圳财经生活,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005356&user=96926859&tsum=4b6dad6dbbce80457e558809c8684c0e 
+深圳财经生活高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005357&user=96926859&tsum=76615676c21f1cf55ed099f096c0efdc 
+深圳娱乐,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005358&user=96926859&tsum=76e843f6ddc2c5ea0003c53cc6fc4c08 
+深圳娱乐高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005359&user=96926859&tsum=116a7be6dfec67471c88f53b86252652 
+深圳体育健康,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005360&user=96926859&tsum=88321164463f62b5c55a8bfe1f64c555 
+深圳体育健康高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005361&user=96926859&tsum=3a37bd3469cb97969f6dc16e60ffd1c0 
+深圳少儿,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005363&user=96926859&tsum=668f1ac637024965784cbc25e7bc8349 
+深圳少儿高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005364&user=96926859&tsum=789725d9a6462281caabe4fc68c36a88 
+深圳公共频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005365&user=96926859&tsum=9990d863f41759899e7a1615d4092761 
+深圳公共高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005366&user=96926859&tsum=8e40d6bcd2b8848cc0e69c02bde19fb5 
+深圳宝安（音频）,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005368&user=96926859&tsum=e6c101f2c9dbff32409c2fc7b6fa30c1 
+深圳宝安高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005369&user=96926859&tsum=cbdf8c453abff322183b2b0c83d7cdea 
+深圳宝安第一课,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005370&user=96926859&tsum=8c5e7f42f915654bcd36a7d0159fff6c 
+深圳龙岗频道高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005371&user=96926859&tsum=baf629bca56219e108fc9d2effb91c23 
+深圳东部高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005372&user=96926859&tsum=6db29894afe951c8083fccf2388e73c5 
+深圳众创TV高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005373&user=96926859&tsum=2d5b453e557c0211dc2de607efbc441e 
+深圳移动电视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005374&user=96926859&tsum=b874b3362109aaf08e87014b6237c769 
+深圳宜和购物,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005375&user=96926859&tsum=a3a6938797f0d138608e335b31bba78a 
+深圳宜和购物高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005376&user=96926859&tsum=f51b5178b0d10bd88c3fd57c68c9e4e7 
+韶关新闻综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005377&user=96926859&tsum=072c74143e2b12bce6b2d8d97e9a22ea 
+韶关新闻综合高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005378&user=96926859&tsum=ec3ebfa01e62d64a2d445261af42cef6 
+韶关绿色生活,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005379&user=96926859&tsum=4b41ab35b1137f215de0805124ff9911 
+韶关绿色生活高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005380&user=96926859&tsum=d65cf7373aac5ec21b31fda2bf1e6857 
+湛江新闻综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005381&user=96926859&tsum=857045d7e7b32ddb22b5425552cfab87 
+湛江新闻综合高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005382&user=96926859&tsum=e8aeb5eef2f0694ffd70f0b117698674 
+湛江公共,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005383&user=96926859&tsum=b7d651a13d7a9005ffe4f3194b19722e 
+湛江公共高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005384&user=96926859&tsum=9bac1ecdfc5071e737bd27d7af54f6d8 
+揭阳综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005385&user=96926859&tsum=efab9de3e702c46869bec8e932cd1345 
+揭阳综合高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005386&user=96926859&tsum=766c246a2a8e70c5d65c96758fea758f 
+揭阳公共,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005387&user=96926859&tsum=71209e364c32a96e7e8f6e674fd32f9c 
+揭阳公共高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005388&user=96926859&tsum=7eb02e165a61b2e3bc6681a5933ada91 
+江门综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005389&user=96926859&tsum=3db32d72d32d5e429f0e98b92cf2d824 
+江门综合高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005390&user=96926859&tsum=2fc3159fa305b593034036ea384a8a95 
+江门公共,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005391&user=96926859&tsum=ad083c4a070bbbbdaa1e6792d49ce201 
+江门公共高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005392&user=96926859&tsum=bf2cf369aa6a6baa6e3482d06e434033 
+江门教育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005393&user=96926859&tsum=6db9bd16c49c6dbcc9194f3740ca777c 
+江门教育高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005394&user=96926859&tsum=63d594d077bba7494af2c3a75cb729f9 
+HZTV1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005395&user=96926859&tsum=c1222d9d98c0f15b75164a68abe56b2b 
+HZTV1高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005397&user=96926859&tsum=5fe4f32bf3b28512e2638b0f557ee147 
+HZTV2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005398&user=96926859&tsum=33e18b1c57a2997d71d5470fb8878397 
+HZTV2高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005400&user=96926859&tsum=e8be747057d8d6139d95bd51001372c4 
+汕尾新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005401&user=96926859&tsum=0b7bc9fc0fd51a0cb07fa95eb2b5fcc7 
+汕尾新闻高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005402&user=96926859&tsum=10dbe9548d5d1a5b524580ca5335fb2c 
+汕尾文化,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005403&user=96926859&tsum=e69e8b69eae2181d577fbfe426773115 
+汕尾文化高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005404&user=96926859&tsum=ff66ad9b24a2b4efd270da02bb1a0692 
+珠海1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005405&user=96926859&tsum=fa28080909c2788fc89dfc20a29f513e 
+珠海1高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005406&user=96926859&tsum=1c74aace9c8ab78109366237135873dc 
+珠海2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005407&user=96926859&tsum=69f53a0a13b0ac0244a509725d0d4149 
+珠海2高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005408&user=96926859&tsum=2a45086b03c014468892d0877d002a31 
+肇庆综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005409&user=96926859&tsum=3e0d3d5088a8881b11c8d0178e5d073a 
+肇庆综合高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005410&user=96926859&tsum=18d39dd2350c3d9aa43e8348a3be02ab 
+肇庆生活服务,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005411&user=96926859&tsum=cc26d448752b32c12b3e82ef6d427f02 
+肇庆生活服务高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005412&user=96926859&tsum=d8e0f4d041c465aa4ed48d070d5263c0 
+河源综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005413&user=96926859&tsum=c1ca0307c91664fb681200050f4748b0 
+河源综合高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005414&user=96926859&tsum=8740c72b9fcad06f83aa8921beafe66a 
+河源公共,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005415&user=96926859&tsum=d36c657329c9cc92e75360aee8b59f09 
+河源公共高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005416&user=96926859&tsum=b60d1dc4324d633be3345b1d0e3fdaa3 
+汕头综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005417&user=96926859&tsum=599c49580a15a053607d26b197d91b08 
+汕头综合高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005418&user=96926859&tsum=8af7b0f34ca685f0db5a66131ced7322 
+汕头经济生活,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005420&user=96926859&tsum=bdb508f7964761360744c9db717f9c35 
+汕头经济生活高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005421&user=96926859&tsum=99a3b946f474ddfa564100f8778d5837 
+汕头文旅体育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005423&user=96926859&tsum=d8c128c1998f1c55c1cd1d7a87eab478 
+汕头文旅体育高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005424&user=96926859&tsum=0780f537a93b7b6c5a21c217c22c0f46 
+清远新闻综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005426&user=96926859&tsum=a77cbb278bf017fbc00c3e46bc952e81 
+清远新闻综合高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005427&user=96926859&tsum=2f29c907d7e74487f40871a165621c47 
+清远公共,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005428&user=96926859&tsum=2bf52f4966a712eb0ef942607126fe88 
+清远公共高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005429&user=96926859&tsum=aa14de215fa6b89c30cfa76dedcb14b3 
+云浮综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005430&user=96926859&tsum=06fdac744462f52c1e435410496429e9 
+云浮综合高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005431&user=96926859&tsum=f040c9a6e7ddee8d6e75202275bb566a 
+云浮文旅,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005432&user=96926859&tsum=c7fa59e015c001c803ca92e3055ae793 
+云浮文旅高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005433&user=96926859&tsum=151dbebec0c1fcd80639a7bf571bdeb6 
+茂名综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005434&user=96926859&tsum=96cd0ef3e9974b4810979650dc60169b 
+茂名综合高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005435&user=96926859&tsum=a4ef89079cc9be4b0d90b3ed86b11553 
+茂名公共,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005436&user=96926859&tsum=58550184b62bb6ecb21067fea53486d3 
+茂名公共高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005437&user=96926859&tsum=abd5aa1d72a874e536cddeeda512f39b 
+佛山综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005438&user=96926859&tsum=a1184307f691eb0185f0074cc9059d24 
+佛山综合高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005439&user=96926859&tsum=5dab362a45433b427e842164477f1999 
+佛山公共,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005440&user=96926859&tsum=cee2b308f1f97b94e6a131a1b37a2997 
+佛山公共高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005441&user=96926859&tsum=4b58eef0e4bb7a50cc373225cf395546 
+佛山影视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005442&user=96926859&tsum=8ba5557e69b3bfa3a2ba21f55f5c221c 
+佛山影视高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005443&user=96926859&tsum=686d043985023000bea1e356f9441592 
+佛山顺德,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005444&user=96926859&tsum=aef6750ef62c8f6e10efb77fe94a4216 
+佛山顺德高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005445&user=96926859&tsum=7cd5938151694ad90c4fdb7c540c8135 
+佛山南海,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005446&user=96926859&tsum=7b25fca61d534bb8c3aadca44b70fff6 
+佛山南海高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005447&user=96926859&tsum=5e3dc3105dda8e509f9fe85f5cd39e85 
+中山综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005448&user=96926859&tsum=039760df96df917cdcc137ac4136a359 
+中山综合高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005449&user=96926859&tsum=5c60049ebb319574f3f3b15f660f16ba 
+中山公共,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005450&user=96926859&tsum=9af987930eeefda0becf66a671c0fc46 
+中山公共高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005451&user=96926859&tsum=5eaabd68a743330e4b0012aed787d2dc 
+中山教育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005452&user=96926859&tsum=13d6b672a22ff3604ca820ccdcbe4843 
+中山教育高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005453&user=96926859&tsum=4ce3fd26b1693a1e78e72a3fdad8fca8 
+东莞新闻综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005454&user=96926859&tsum=16c129dd4a79db422111c70110393669 
+东莞新闻综合高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005455&user=96926859&tsum=30165a18aecb45ede2838b428b9c0fd1 
+东莞生活资讯,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005456&user=96926859&tsum=7781acf4ea9cae955eeddf5075783e66 
+东莞生活资讯高清,http://itv.425555.xyz/tvapi.php?tvplay&cid=1005457&user=96926859&tsum=47fabf11dfa0fae784abed9b7f151212 
+NewTV,#genre# 
+华数 4K,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003591&user=96926859&tsum=d584b65cb579437be06f68fb518dee0e 
+纯享 4K,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003592&user=96926859&tsum=e189080e425072ecb77607dc081a0405 
+咪咕4K 1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003593&user=96926859&tsum=d187d72c7fc97de49983595b4195d5cc 
+咪咕4K 2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003594&user=96926859&tsum=d83f7af95134f8d748305270fcd9f615 
+咪咕全民热练,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003595&user=96926859&tsum=5e4dc34f240f269e439d9977d0714077 
+求索动物,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003596&user=96926859&tsum=61dd2dd245d97e08f2e1cdf8316dcd69 
+求索纪录,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003597&user=96926859&tsum=cefb6c84ecb8d053c4c04c11b217b5ae 
+求索科学,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003598&user=96926859&tsum=b9f3a16214ebb6ff1ce3e2f65cc22d4a 
+求索生活,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003599&user=96926859&tsum=540a2fc479fcc02860999962d2dc5fab 
+NewTV 精品综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003600&user=96926859&tsum=15a098eb521a6df01182687a5431acd2 
+NewTV 精品大剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003601&user=96926859&tsum=14fad05ba286b1cc3303cffafc9731ed 
+NewTV 精品纪录,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003602&user=96926859&tsum=d9fd0032a8bb89215c7da7f0d5fe3308 
+NewTV 精品体育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003603&user=96926859&tsum=3e53e21ec5d5bf60d4f93fc36013c368 
+NewTV 精品萌宠,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003604&user=96926859&tsum=412272aa7073ef6704fbbd37bcca4e71 
+NewTV 爱情喜剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003605&user=96926859&tsum=b2590f36253776f26845bd7b2e84f15f 
+NewTV 超级电视剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003606&user=96926859&tsum=dcd2ed3131ab421695126b93027fa31e 
+NewTV 超级电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003607&user=96926859&tsum=5c55e567b20c9464489f608d14bbd5c8 
+NewTV 超级体育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003608&user=96926859&tsum=94315a570ca85391168bdf9fbf8d12ab 
+NewTV 超级综艺,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003609&user=96926859&tsum=4ee6024187d800be8bea9450ae6a7ba2 
+NewTV 潮妈辣婆,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003610&user=96926859&tsum=a3062d2553c32af0bca9872c3e89eef1 
+NewTV 东北热剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003611&user=96926859&tsum=1d251ad0d25cacd230248a668c40e0f1 
+NewTV 动作电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003612&user=96926859&tsum=dc9a8716328decded515f70367620a13 
+NewTV 古装剧场,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003613&user=96926859&tsum=52d984be214932c5e3c3d09d5ac53c0a 
+NewTV 欢乐剧场,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003614&user=96926859&tsum=a5a44835f17f579673f6be4dbbd5e261 
+NewTV 家庭剧场,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003615&user=96926859&tsum=c644e4693fb32a5316e176970ec078df 
+NewTV 金牌综艺,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003616&user=96926859&tsum=be7a779a8796082a224148b9ddbe42a8 
+NewTV 惊悚悬疑,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003617&user=96926859&tsum=8721f72bf4701730d8aa117310ef2aaf 
+NewTV 军旅剧场,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003618&user=96926859&tsum=39b72d0c2b4f77b78927715140761fdc 
+NewTV 军事评论,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003619&user=96926859&tsum=b593f9c52773e20879539bfd88fe4273 
+NewTV 魅力潇湘,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003620&user=96926859&tsum=aba6f98087c164356b5cdac3162ef50f 
+NewTV 明星大片,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003621&user=96926859&tsum=a751e8dc7b344e320358b813a1c1ce45 
+NewTV 农业致富,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003622&user=96926859&tsum=04686ae4214faabe817024da1eec6ff2 
+NewTV 武博世界,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003623&user=96926859&tsum=caca2514d3f14369636419e6bd84400e 
+NewTV 炫舞未来,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003624&user=96926859&tsum=4dd0f3c26cf3a11535ac307098cdabd0 
+NewTV 怡伴健康,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003625&user=96926859&tsum=501c570c567eed83f72986b19f26b59b 
+NewTV 中国功夫,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003626&user=96926859&tsum=5d1d0a668f9c57d221aaa3602e0bb2c2 
+NewTV 黑莓电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003627&user=96926859&tsum=0f59351cab71fbdc843127e168832eb0 
+NewTV 黑莓动画,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003628&user=96926859&tsum=fbcde767c6597af90bc7be72937b6fae 
+NewTV 哒啵电竞,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003629&user=96926859&tsum=47be69f182d33812718cdb9720b3accd 
+NewTV 哒啵赛事,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003630&user=96926859&tsum=0042b630c3b09e661b7fcbfcc9cd9b50 
+SiTV,#genre# 
+SiTV 动漫秀场,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003631&user=96926859&tsum=0c956701dd5afd108438aa16257fe10e 
+SiTV 都市剧场,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003632&user=96926859&tsum=85cae65aace71237e11676ca67c6870b 
+SiTV 法治天地,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003633&user=96926859&tsum=beb9d89e53cdf995ba5f93697865ac7f 
+SiTV 欢笑剧场,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003634&user=96926859&tsum=388af0263e998eec7260c445abfbf294 
+SiTV 欢笑剧场-4K,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003635&user=96926859&tsum=a2611f85042b78f987fb511936378ba3 
+SiTV 金色学堂,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003636&user=96926859&tsum=9bab8ed75fc83b840c2c2eb765faa936 
+SiTV 劲爆体育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003637&user=96926859&tsum=902d2bef6fa645d1d6d0f329386a5a77 
+SiTV 乐游,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003638&user=96926859&tsum=2beee263b39e2430104eee8dcbc53a47 
+SiTV 魅力足球,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003639&user=96926859&tsum=8dda1bda28a70b61cc306e171b317e4e 
+SiTV 七彩戏剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003640&user=96926859&tsum=9ae10325ff9bad24d801a3393eda59ca 
+SiTV 生活时尚,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003641&user=96926859&tsum=36728d46006bd466dcee1b132f57f253 
+SiTV 游戏风云,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003642&user=96926859&tsum=9287d7c07589ab36aa72768a03a35ad2 
+iHOT,#genre# 
+iHOT 爱电竞,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003643&user=96926859&tsum=12deff9742ea68eb361aae6ae98b739b 
+iHOT 爱谍战,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003644&user=96926859&tsum=71f667b2079bfb6f7f7b3d846a101a81 
+iHOT 爱动漫,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003645&user=96926859&tsum=f0311f32a8d4fe3ab0f6c974a4b33b98 
+iHOT 爱都市,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003646&user=96926859&tsum=f91ca28a91611b5220da745ac4f49afe 
+iHOT 爱怀旧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003647&user=96926859&tsum=50e0f0110ba418004658cfc998ff918d 
+iHOT 爱经典,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003648&user=96926859&tsum=82322d1a6af7b3ba2b8770967a46f00a 
+iHOT 爱科幻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003649&user=96926859&tsum=458b2124f2817661cc3127f01f01ddb7 
+iHOT 爱科学,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003650&user=96926859&tsum=fa4cea454684b3c1198a8b7f202326bd 
+iHOT 爱浪漫,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003651&user=96926859&tsum=e05e67f3ff28a353934883e7579c2340 
+iHOT 爱历史,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003652&user=96926859&tsum=6a91e153f96ec26bbbabb5b7c75cca9a 
+iHOT 爱旅行,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003653&user=96926859&tsum=4cba60d6e35a8a606ceb008450b0a2cc 
+iHOT 爱奇谈,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003654&user=96926859&tsum=578f66e9d9adc35de95cb2b566454ef6 
+iHOT 爱青春,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003655&user=96926859&tsum=ca7d5422e94a8042e48ff3027cfe0e8a 
+iHOT 爱赛车,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003656&user=96926859&tsum=743d3046e827ab1fa3ba96ad129bb0d9 
+iHOT 爱体育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003657&user=96926859&tsum=713b412a8e26912417ac5410f016f1d4 
+iHOT 爱玩具,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003658&user=96926859&tsum=827a83056a9e1aba77df25a7dc7b8f43 
+iHOT 爱喜剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003659&user=96926859&tsum=982d64efaf1b61e85d0a6df84c308063 
+iHOT 爱悬疑,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003660&user=96926859&tsum=999b436ac86453e4de6720549a1663a2 
+iHOT 爱幼教,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003661&user=96926859&tsum=5eed1e9e7f80d3dcd0c80f0c116a0fcb 
+iHOT 爱院线,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003662&user=96926859&tsum=1c985ad8d2c9a07da67d565371f7e954 
+4GTV,#genre# 
+民视第一台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006132&user=96926859&tsum=672f36a42303c90cfedf6658866c1c7a 
+朝鲜中央台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006133&user=96926859&tsum=0aee419caeeb79d56020f5a4d1ce822a 
+博斯无限,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006134&user=96926859&tsum=b409b207564cef5aae9b50c2abb7463c 
+龙华日韩,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006135&user=96926859&tsum=1a9b09242f37a9a6de19f872967dd1eb 
+龙华偶像,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006136&user=96926859&tsum=a0c94a40bdf5217644a4e1db4967be33 
+博斯无限2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006137&user=96926859&tsum=61949124c82fa544edfb63aadef344f3 
+寰宇新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006138&user=96926859&tsum=c92389f20716a0e67a3c3145949cb001 
+寰宇新闻台湾台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006139&user=96926859&tsum=2e305c1ec67508103e9655eabe0e3aa9 
+亚洲旅游台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006140&user=96926859&tsum=f0d7099776f4368567fb91cccad303b5 
+龙华戏剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006141&user=96926859&tsum=e1354247c3df5588248400b3c9651362 
+Smart知识台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006142&user=96926859&tsum=62c91b8e421b087739248980a88cba9e 
+生活英语台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006143&user=96926859&tsum=aca46bd736a103b10c933a7c1e317119 
+龙华经典,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006144&user=96926859&tsum=3b64c6f72b5572e893c410ebcaf0a05d 
+台湾戏剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006145&user=96926859&tsum=f7c7c9c579368a5c025edc5dbe778160 
+Discovery,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006146&user=96926859&tsum=034972e4b2886d915d44f795a221b294 
+电影台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006147&user=96926859&tsum=50efb279b8619efa7a3c02daa1126c31 
+维来精彩,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006148&user=96926859&tsum=7e8388ef27e0ae168c4151cfc61402b0 
+新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006149&user=96926859&tsum=877601ff7f7b6c082c300b644e625ce4 
+三立台湾,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006150&user=96926859&tsum=de1c81d21b30b6494b1d01d54d264654 
+NHK,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006151&user=96926859&tsum=a2c7c92cfe9bfd16c9216931e8f1c24e 
+八大戏剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006152&user=96926859&tsum=73ca7b3f672225c1a811c7aee794faa7 
+动漫,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006153&user=96926859&tsum=ecd3990226d5d61049f2b5a3f826a6c1 
+凤凰咨询,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006154&user=96926859&tsum=abb7f3ff84f7afa32ff4329f0eec928e 
+TVB News,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006155&user=96926859&tsum=816e72cc9fbe8838eba3f552de4dd977 
+AMC电影台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006156&user=96926859&tsum=1c3093e73fd6cc1d4e87ccb0db472e79 
+八大综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006157&user=96926859&tsum=e8ef84e333deeea3d6e56022bdc7c524 
+国外台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006158&user=96926859&tsum=623d7bb68b61fd9731f7936980cf0d28 
+八大第一,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006159&user=96926859&tsum=b402d80dcb865d9b50f183e408275ae5 
+国外1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006160&user=96926859&tsum=24aed08ef84d6e018e3536dec0bbf919 
+动物世界,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006161&user=96926859&tsum=5250502f67a76c04ccc835acf53ff600 
+民视,rtmp://f13h.mine.nu/sat/tv051 
+台视,rtmp://f13h.mine.nu/sat/tv071 
+中视,rtmp://f13h.mine.nu/sat/tv091 
+华视,rtmp://f13h.mine.nu/sat/tv111 
+东森超视,rtmp://f13h.mine.nu/sat/tv331 
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581 
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701 
+纬来体育,rtmp://f13h.mine.nu/sat/tv721 
+DAZN1,rtmp://f13h.mine.nu/sat/tv731 
+DAZN2,rtmp://f13h.mine.nu/sat/tv741 
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761 
+纬来日本,rtmp://f13h.mine.nu/sat/tv771 
+凤凰中文,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006177&user=96926859&tsum=ba18fda463f87211621bb65a4ab58ccd 
+凤凰资讯,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006178&user=96926859&tsum=05568a782bf4c2dc889211757906651c 
+凤凰香港,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006179&user=96926859&tsum=e8d97054d46ccb8dc34feb58c973e706 
+HK,#genre# 
+凤凰中文台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003663&user=96926859&tsum=57609cb260c79c64d9e7ed73d7ecb6da 
+凤凰资讯台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003664&user=96926859&tsum=7a7b0009648a1b5e2b5a93fc1be5e1c5 
+凤凰香港台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003665&user=96926859&tsum=88acdfebd0ecaa78432c5d30efdc0ec4 
+TVB翡翠台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003666&user=96926859&tsum=22cb4b7cda6a01ba8974eee526c69007 
+TVB明珠台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003667&user=96926859&tsum=399739c759a58b450c3423af735f4be4 
+TVB J2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003668&user=96926859&tsum=6c9a0a78b1bbdd3163924e6bab9f9e04 
+TVB星河台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003669&user=96926859&tsum=b19c70150a65adf845f7ed038f4bd8b7 
+TVB粤语片,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003670&user=96926859&tsum=8c5f48083af5ad355487cf9e78bd4cf9 
+TVB经典剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003671&user=96926859&tsum=7cdd461b177085cb4ffc6a6ff8f77b51 
+TVB亚洲剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003672&user=96926859&tsum=f94760b10bb40ab3ab5b4c2152fd5906 
+TVB华剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003673&user=96926859&tsum=55b086201f240b5d934137241c8fd66f 
+港版美亚电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003674&user=96926859&tsum=7bde262460bb2a0173a63d3c2145c0f8 
+TVB娱乐新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003675&user=96926859&tsum=c2412f38abeae50114db8113fb0b24f5 
+TVB黄金翡翠,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003676&user=96926859&tsum=6eb09b37e9ddf6a1328db61448b89f45 
+TVB千禧经典,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003677&user=96926859&tsum=158bf713a5f42875a2cac6c65b764085 
+TVB功夫台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003678&user=96926859&tsum=974eb8fa04b81d73e2ef2e91e33539dd 
+Now爆谷台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003679&user=96926859&tsum=6e80cc3bfb16e9561679eba03026dd67 
+Now星影台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003680&user=96926859&tsum=b12099e74760f5cce01de380b2cdce18 
+无线新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003681&user=96926859&tsum=031e333a46ae81158f7566ad6dc8c483 
+无线财经台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003682&user=96926859&tsum=d49ffb8576559cfe83f089af2d212926 
+港台RHK31,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003683&user=96926859&tsum=1330c4e0be9037c439aff515bc99719b 
+港台RHK32,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003684&user=96926859&tsum=5634956bb0b7362268d4bf67247ec51b 
+HOY TV,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003685&user=96926859&tsum=338da19ceeb842c0d9272a79d3b1b568 
+HOY资讯台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003686&user=96926859&tsum=e414d39fc986ca5a77a98664eea37d7b 
+国际财经台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003687&user=96926859&tsum=fcddb0ed33f26ffb85dc4364d8023654 
+澳门莲花台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003688&user=96926859&tsum=b908fc5333fb34c86655165913fefb92 
+18 跑马台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003689&user=96926859&tsum=e6c66e43e9d365c8c79853583f9622f9 
+ViU TV,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003690&user=96926859&tsum=cb249edf633d334d26212f3d98be0c9f 
+VIU TV,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003691&user=96926859&tsum=6694daa5947532aa919506b16bfec63c 
+VIU6TV,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003692&user=96926859&tsum=7753e5d1109469c43f30af19a316381c 
+Now新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003693&user=96926859&tsum=085a9f1e4feda978f4b1dd2002e8c03d 
+Now财经台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003694&user=96926859&tsum=48017182e4d2e20fbb6ea717bd294fca 
+Now英超台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003695&user=96926859&tsum=381d606799bf835a3b97ddb68e8b60e2 
+Now Golf 2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003696&user=96926859&tsum=5c4790b0bc80055e3d4d259fb3a259a7 
+Now体育台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003697&user=96926859&tsum=faa96b4702581df037ff0303baf683ac 
+NowSPORTS7,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003698&user=96926859&tsum=0cdb68ee4d430a2fee48e5843ec1c745 
+Hands UP,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003699&user=96926859&tsum=8ff6b608d99afc0ea8cfb169d1dd5286 
+SKY体育台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003700&user=96926859&tsum=aa36ec113299e8a523f36f9085fd4494 
+TW,#genre# 
+民视HD,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003701&user=96926859&tsum=f34c80e054cf5959d870ffc8a21a67eb 
+中视HD,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003702&user=96926859&tsum=4d0674bb72fba4a79f60b38c81a2a108 
+华视HD,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003703&user=96926859&tsum=022dd4ae176500d97bf053336689208c 
+公视HD,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003704&user=96926859&tsum=95ab2339fca1cdc5986aec80400e7abf 
+公视3HD,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003705&user=96926859&tsum=2aa3e9a73d653ed76885b4aa882ff69f 
+三立综合台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003706&user=96926859&tsum=0145c16e52df6aef5b60c1b558fef66a 
+三立台湾台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003707&user=96926859&tsum=73f6f7ff93e4e1f207aa57d5fe9aa2fa 
+三立戏剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003708&user=96926859&tsum=824cac509d435e94b04424aec2c15969 
+三立都会台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003709&user=96926859&tsum=e2c32f409b197b72d758107eea38325c 
+八大第一台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003710&user=96926859&tsum=838bf6100404ce57f4b38bc6615a57ce 
+八大综合台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003711&user=96926859&tsum=f5dd76fd936541fdc6565459bb0d204f 
+八大戏剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003712&user=96926859&tsum=4d078fb59c8cf15a42cac065956fc339 
+八大精彩台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003713&user=96926859&tsum=9a36ec08408b93758b2046b68e3b2468 
+中天娱乐台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003714&user=96926859&tsum=42d87d842575350cc6e1949cd18bfff6 
+中天综合台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003715&user=96926859&tsum=b17f08e8f8789dc283dfcc5216d28023 
+民视第一台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003716&user=96926859&tsum=23e605aa978044303f38058f197aa355 
+民视台湾台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003719&user=96926859&tsum=8b37edb08a52c469859df0e61d10f7f6 
+东森综合台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003720&user=96926859&tsum=e0f7fd15946cb554a39351c551d8e6b5 
+东森超视台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003721&user=96926859&tsum=f68733874ebd511eea65828bcb616736 
+龙华偶像台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003722&user=96926859&tsum=e829869761917bdf5256bae67778d3fd 
+纬来体育台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003723&user=96926859&tsum=1994fe0210bc6846c112b987a77dc38a 
+纬来日本台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003724&user=96926859&tsum=dea701dbb3228511707ad83bb9455b5f 
+靖天国际台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003725&user=96926859&tsum=685133ac0cf90f2799b2d9080a9f955a 
+靖天卡通台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003726&user=96926859&tsum=47a51a47765c13b5762451c2c23d6ef6 
+爱尔达影剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003727&user=96926859&tsum=abeca88a2be405687e885d58ed914a5e 
+TVBS欢乐台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003728&user=96926859&tsum=1772659f35d4ec9c0a9e0dab93d4258a 
+东森YOYO,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003729&user=96926859&tsum=c43c36b8cd6e59baad8ebfe0ad184f9a 
+CN卡通台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003730&user=96926859&tsum=418b3222c5f11323f60c4d5cc791792f 
+TVBS HD,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003731&user=96926859&tsum=d037cac15be7fa7adadd62419bb145ce 
+TVBS新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003732&user=96926859&tsum=c2046e0702b5479e72e0695dd751e223 
+中天新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003733&user=96926859&tsum=e811aa8cb8a86d88815512f2310f317e 
+中天新闻 2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003734&user=96926859&tsum=6e9a272c503d5e9cdac30cd779474f38 
+中视新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003735&user=96926859&tsum=f4d75412a953d099e937adb10cefdec3 
+民视新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003736&user=96926859&tsum=c88e9b5b1fa9486e3329f7ad029d3fde 
+东森新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003737&user=96926859&tsum=7c6a7d35cecd31c2e1b9a0af546dfb25 
+东森财经台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003738&user=96926859&tsum=b602c539a64b18c541611b0cd930bd6b 
+环宇新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003739&user=96926859&tsum=ea4cba86d76e8c58f7187a91b710727d 
+台视新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003740&user=96926859&tsum=ca976ef3c362b066ed0211ee818281a3 
+壹新闻电视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003741&user=96926859&tsum=9ab0e2db744947a31e5f596c4019db61 
+亚洲国际台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003742&user=96926859&tsum=971d4ade614412cafac8716db5387bb3 
+三立LIVE台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003743&user=96926859&tsum=646bfb978a0459382bd52510ce1e7c7f 
+镜视新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003744&user=96926859&tsum=1adc0a4051e2d01e1dbc7d07cf32e727 
+华视新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003745&user=96926859&tsum=7b24ece79e96f7384cbd45410e273597 
+非凡新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003746&user=96926859&tsum=69fb3cf17ccb8137f4e5a3bed01e4bc3 
+年代新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003747&user=96926859&tsum=c8c1789ec7296378e14d4564a5bb56b7 
+CBS新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003748&user=96926859&tsum=44ad47391b6329d5815490ff689480d5 
+ABC新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003749&user=96926859&tsum=2718dbf50f6ab51228bc53ea4094444b 
+环宇台湾台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003750&user=96926859&tsum=1de38f1b1b1ced4b40eaa5de9166eefb 
+SBC新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003751&user=96926859&tsum=ec4d26cb36ea95aaf95d7b544893018d 
+DW,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003752&user=96926859&tsum=2af043ad95fd84d000089ff03769e95c 
+CNN新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003753&user=96926859&tsum=279065a13fb39b4904b2b46b3ba1947d 
+CNBC新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003754&user=96926859&tsum=14a066f5cedd428c7dbdc288ef2dd203 
+BBC新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003755&user=96926859&tsum=25b0de74d262ea219407338dcd7cea5e 
+LIVE新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003756&user=96926859&tsum=b9b016615b494b73da24ecc5d687bc44 
+CGTN新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003757&user=96926859&tsum=2bac7cbea85405c0ece301c8808a166a 
+纬来电影台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003758&user=96926859&tsum=87e865afb3df890a49819f615564c44e 
+东森电影台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003759&user=96926859&tsum=5a0b2a1eaf6eda8118bb2f6f62584187 
+东森洋片台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003760&user=96926859&tsum=bb69fab65eb6c63ae053d37b2f4a923c 
+东森戏剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003761&user=96926859&tsum=339e579c8df0c49eddc9fae79e432b3a 
+好莱坞电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003762&user=96926859&tsum=3fbccda466e4364e2f011eae9cd3fd04 
+龙华洋片台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003763&user=96926859&tsum=e4bcf3e47322bc2d3d4c8031c89ac50a 
+龙祥电影台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003764&user=96926859&tsum=76836afaa0dfd1df7276c0e92a8394db 
+卫视中文台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003765&user=96926859&tsum=cd5dfcdd42bc8cde786570dc11fb7ed9 
+天映频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003766&user=96926859&tsum=8483a985d9f5b5be7db6f074954e9723 
+天映经典,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003767&user=96926859&tsum=c9f90b585f5e499007a34fac10d54a13 
+星卫电影台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003768&user=96926859&tsum=e0da740cfd72021f75002026ac147b20 
+美亚电影台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003769&user=96926859&tsum=2e3df0a5a0d70419bf1bbb0e07a84022 
+卫视电影台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003770&user=96926859&tsum=181b23407a13bdfb4aff12c64026f955 
+HBO HD,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003771&user=96926859&tsum=20607efd13b847a2eb044da357cc980d 
+HBO lgnature,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003772&user=96926859&tsum=45b6613dd0f227feb100eb0dd69662d3 
+HBO HiTS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003773&user=96926859&tsum=0725cf7441b66f75e886274e472df29b 
+HBO famlly,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003774&user=96926859&tsum=f49fea91f10e07b0735ac810a8ff0c75 
+CINEMAX,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003775&user=96926859&tsum=da37482690877ee21f10f6a2a0fbe7b9 
+AXN,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003776&user=96926859&tsum=054ee11cc50f6ef19b8000df110b9dfb 
+Sony Pix HD,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003777&user=96926859&tsum=c7bce110f45b869969cd6d1e24fae549 
+BOO,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003778&user=96926859&tsum=1fd676a76d4f4370a524f1af2e3d91a6 
+KIX,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003779&user=96926859&tsum=5f33a26f9a50c01a5b431541e00fdd6a 
+华纳电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003780&user=96926859&tsum=e0396fd99a01e6750ef5d49bb23eeae7 
+One,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003781&user=96926859&tsum=c444203a1c6d3219a4356026cd9ca525 
+Thrill,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003782&user=96926859&tsum=0683c83d260ca04fa5185dd11db333c0 
+Hits Movie,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003783&user=96926859&tsum=105b5b10096d7563400cf5d8ad728b83 
+tvN Movie,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003784&user=96926859&tsum=ba8bceda8dd980232ee1a81e5a8b43fb 
+astro AEC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003785&user=96926859&tsum=51cca5a45b00c134d2087d38e79aad9a 
+astro 全佳,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003786&user=96926859&tsum=477be8a6c73b229ed8c4ea385f1062fa 
+astro 小太阳,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003787&user=96926859&tsum=641a0ef4cfe1816436d1bc003b9d0930 
+astro 华丽台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003788&user=96926859&tsum=aff46dce65417fde4e8ec752a9a06fee 
+astro AOD,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003789&user=96926859&tsum=286690f4f3f78a3aa0057c897d046f8b 
+astro 爱奇艺,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003790&user=96926859&tsum=2bd233bf7e585fd9727d1f5e8c60de37 
+astro ARENA,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003791&user=96926859&tsum=5a7d0bd808dc15170338114082bf2774 
+astro MUtv,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003792&user=96926859&tsum=b0df776f7bd6d32af54dc513903f70d2 
+国家地理,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003793&user=96926859&tsum=711ec8f74738538942ff1e0aa318b9b1 
+国家地理野生,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003794&user=96926859&tsum=24a95117ac81a229a8a3cf33e09a4915 
+动物星球,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003795&user=96926859&tsum=4cdbb0641a51807795a42daf1ab9b99d 
+ofn,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003796&user=96926859&tsum=670d7cc1a3799a5c6d97f625d833a3e7 
+探索频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003797&user=96926859&tsum=8821f94ce99401bc19100ff4af495867 
+亚洲旅游台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003798&user=96926859&tsum=2bf0d6c31f499daeff1a7d3ef63dc4aa 
+TLC,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003799&user=96926859&tsum=7e0504393328a524e2aa5e9cc2e01d19 
+BBC Earth Lifestyle,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003800&user=96926859&tsum=dc00158d987dddbfd5685bc2137ac921 
+History,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003801&user=96926859&tsum=b2e428ba6123e4ae6f8e3bae5a89447f 
+lifestyle,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003802&user=96926859&tsum=c27069c8f428f72e3599568eb9bbc831 
+golf,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003803&user=96926859&tsum=2f923f890b06a24d4ecc9f5f13ec12e4 
+ELTA体育 1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003804&user=96926859&tsum=b3e69c61d54fba26006b42427096cb7b 
+ELTA体育 2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003805&user=96926859&tsum=d33de2bb5782158a08bf2a669b47d1ee 
+ELTA体育 3,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003806&user=96926859&tsum=11882d414261713e76a09d990047a657 
+ELEVEN体育1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003807&user=96926859&tsum=7ff471233fa4bf6241a217a598c8b1aa 
+ELEVEN体育2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003808&user=96926859&tsum=746aee37b02b5faf7297c6531ac640da 
+博斯运动2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003809&user=96926859&tsum=025b23583d8ddeb57b92ceefab909232 
+博斯高球1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003810&user=96926859&tsum=91bee0b238bd8b6a653be155a63697f1 
+博斯高球2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003811&user=96926859&tsum=ec2059188df421d1bd47f76ccfdf593d 
+博斯网球,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003812&user=96926859&tsum=578da2fc06b59cf31cc9ebc800ec52f6 
+博斯无限2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003813&user=96926859&tsum=a8f0ec92a2dbcd5c224da126ba801c45 
+Sony Ten 1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003814&user=96926859&tsum=3e5436a4528ef057519d74c47577fe05 
+Sony Ten 2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003815&user=96926859&tsum=bc3aeca3842015720f319477585cce6a 
+Sony Ten 3,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003816&user=96926859&tsum=0b30d8a03defeec4c2cf43284ac1962c 
+Sony Ten 4,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003817&user=96926859&tsum=57e611f7d8cda3d503132d53616e0122 
+Eurosports1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003818&user=96926859&tsum=6db16577558fd773adbec41cdcef8887 
+Eurosports2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003819&user=96926859&tsum=f023652accf30c02a5c5f0f9fc974e44 
+Eurosports3,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003820&user=96926859&tsum=f16a63ba7884c356577616186db11446 
+Eurosports4,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003821&user=96926859&tsum=47ce96c8485519661d8321606f321b8e 
+Eurosports5,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003822&user=96926859&tsum=00e65a3060aefbeba8ed459f7c810ed4 
+GOLF,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003823&user=96926859&tsum=26a6b9c59052ac13837e50f088d50cb4 
+BT Sports 1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003824&user=96926859&tsum=ff0fc80e47b9dcde37720e6033d971f6 
+BT Sports 2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003825&user=96926859&tsum=f6a6c835c7d4d164a4afce749de5f2d2 
+BT Sports 3,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003826&user=96926859&tsum=47138e77897c5a71466f7c548c976c8d 
+BT Sports 4,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003827&user=96926859&tsum=f7d59aa11e368202094221e5cdbe81c4 
+BT Sports 5,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003828&user=96926859&tsum=7872cee1f7ea82a4d8ca10941c370ee5 
+ESPR2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003829&user=96926859&tsum=9364d26dc4a8a0d8553a7dc6888a4c05 
+ESPR3,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003830&user=96926859&tsum=34fe5ded94d9e9818dd61ebac73496c7 
+SPORTSNET,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003831&user=96926859&tsum=6c466cb033a6d37fabbc50db0a9930d7 
+ESPR4,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003832&user=96926859&tsum=fd5657455042d5d628b0d08842810b2f 
+ESPR5,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003833&user=96926859&tsum=abdb4d095c7e6bc0da4ee40ec9ef2232 
+ESPR6,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003834&user=96926859&tsum=b68b43c788162a247415ae073920f4c6 
+TVB DRAMA,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003835&user=96926859&tsum=fb2851a39e50093e57d87377f04f2f2b 
+TVB黄金翡翠,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003836&user=96926859&tsum=0c778bcd01c34c2c534bc2fb68a69c15 
+SPOTV,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003837&user=96926859&tsum=eda84c181804d79afba0f552bcabd440 
+SPOTV2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003838&user=96926859&tsum=1eb543717512066b2804cf4972e16f6d 
+澳亚卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1003839&user=96926859&tsum=6af41bd08dbded70cd3f537674de1875 
+HongKong,#genre# 
+翡翠台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004563&user=96926859&tsum=127b697ad337d63ffc0257ac0899c6ff 
+TVB Plus,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004564&user=96926859&tsum=90871039f25868f024fe6103a7cec771 
+TVB无线新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004565&user=96926859&tsum=a9f4e93ab63808750018cb3eeb0f176c 
+TVB明珠台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004566&user=96926859&tsum=7bd5ecef7b6c1f9716777fd38ade9d3c 
+TVB生活台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004567&user=96926859&tsum=2afb5eeb0850297e6e40aa150dd3a1b9 
+TVB直播台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004568&user=96926859&tsum=2aa11f2a37aebfa9bd46afd6b505af7a 
+TVB星河频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004569&user=96926859&tsum=cb6a799a26dc602816b154d40da538ed 
+凤凰资讯台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004570&user=96926859&tsum=80a177f3552db69920c84eb3660fbee0 
+凤凰香港台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004571&user=96926859&tsum=1dff66c203edcfbc58f69a2507074f26 
+凤凰中文台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004572&user=96926859&tsum=e21e9ba579c04df603b5dab13723fad2 
+星空卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004573&user=96926859&tsum=6fe0d8a1bc755b5032984a0e4af1d8e0 
+TVB1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004574&user=96926859&tsum=da1a4a1dae25459720fed704bb1526ef 
+TVB Pearl Drama 明珠剧集台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004575&user=96926859&tsum=5f5443992983d2f9cfa6270a1b2ffdf0 
+TVBJ1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004576&user=96926859&tsum=904b4518fad23fb02864db564e316185 
+TVB Drama 翡翠剧集台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004577&user=96926859&tsum=51ba56a1e5ff9e3b3ffa1a16657fc26d 
+TVB E 翡翠娱乐台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004578&user=96926859&tsum=c512c836e90ea28c14d1a2d34ab15aa0 
+POP C,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004579&user=96926859&tsum=344b12628f417cb0d40431e068ae9398 
+Now爆谷台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004580&user=96926859&tsum=bec4d92a3207419a892b0928ba5e4b58 
+Now爆谷星影台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004581&user=96926859&tsum=d1cee3d6a2c3f386687fa36fc8c3a7f7 
+Now华剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004582&user=96926859&tsum=99b3b65cc89fa856db860275abc71dea 
+Now剧集台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004583&user=96926859&tsum=2a2914e0273ae5fb7ce67bf050510382 
+Now新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004584&user=96926859&tsum=df98b83a9b993447e02ea050e4498607 
+Now直播台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004585&user=96926859&tsum=a194862b57be1ad6735ff53a11ecf1bc 
+Now财经台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004586&user=96926859&tsum=9f8c7325ff310868c817c5010bf34eb3 
+NowJelli紫金国际,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004587&user=96926859&tsum=d18d478b8287b3e812364c5ea82e6c04 
+NowSports1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004588&user=96926859&tsum=1ec94adf4b6405476ba9afca91c80ed8 
+NowSports2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004589&user=96926859&tsum=2e5255575ca5ba7341f9545db45d8346 
+NowSports3,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004590&user=96926859&tsum=29572fe8beb002a267ed601f5cc325b2 
+NowSports4,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004591&user=96926859&tsum=e56517b266522efaec6e038507b8703b 
+NowSports5,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004592&user=96926859&tsum=83197d2e7cb508000d3e6592943af2d2 
+NowSports6,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004593&user=96926859&tsum=1fdb96704d1c6e737d5e1a3fa9e929eb 
+NowSports7,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004594&user=96926859&tsum=c95c14f7c38c8582ef21176b355abd68 
+NowSports641,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004595&user=96926859&tsum=ca4ef29d65c5d53ab6d10fa044fecdaa 
+NowSports英超1台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004596&user=96926859&tsum=c144bacf6a3647b8d63deadbe9de125e 
+NowSports英超2台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004597&user=96926859&tsum=6ea9c09b039a2fcf088998960858d2c7 
+NowSports英超3台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004598&user=96926859&tsum=6bcc01917f77a0effba4ae2924a1fe9f 
+NowSports英超4台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004599&user=96926859&tsum=87668172740b13fff0588bf8904b5b38 
+NowSports英超5台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004600&user=96926859&tsum=595dcb4ad6c40b85df592be89db3d26f 
+NowSports英超6台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004601&user=96926859&tsum=aed14b8ed9d3735861852ca9482d66cf 
+bEINSports1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004602&user=96926859&tsum=e3aec9788cdec61f80dab5063e9c1658 
+bEINSports2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004603&user=96926859&tsum=1281ea98e9e18e32313e9ab71cd2d4ae 
+Now630体育台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004604&user=96926859&tsum=19d84bdcccea5affb8f5a1f5ede68001 
+NBA TV,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004605&user=96926859&tsum=ff9d05117f8df3e0f829a8f89f8b744c 
+澳门莲花,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004606&user=96926859&tsum=cb90e2ac7480c90621f4da9d6e4ad9d5 
+TVB功夫台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004607&user=96926859&tsum=db0a14dcb5444e49fc568a02c3516796 
+WOW TV,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004608&user=96926859&tsum=144eeea2d6a93805d5db312a28873cc8 
+KTSF26美国旧金山,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004609&user=96926859&tsum=376ea5a81eceeb6a523ad719424ff1f1 
+KR ALL TV,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004610&user=96926859&tsum=b972f88a537e0ea7a67e4c1451e44507 
+中国电影频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004611&user=96926859&tsum=fdc2657bd8c2fbeab1cdb75ca25f6347 
+Thrill,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004612&user=96926859&tsum=e992cf90419ad6c44a0609243ebd7059 
+天映经典,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004613&user=96926859&tsum=33b1c156ff9f5f0c04da95d8403b560b 
+香港卫视HKS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004614&user=96926859&tsum=21d2e1cce51a47a286321bb613e5393d 
+HOY 76,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004615&user=96926859&tsum=4e456e4e983735d7194cf5ccee6ff8e6 
+HOY 77,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004616&user=96926859&tsum=21c4444211582b6b90610fde29d53e58 
+HOY 78,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004617&user=96926859&tsum=7bfd64691f7f60ec76ec5bdad0a06f7c 
+无线卫星亚洲台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004618&user=96926859&tsum=8a2dbcfa83d5ef45c73b9e3c95a998d7 
+ViuTV,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004619&user=96926859&tsum=81644978e85ceba33ae490343a09965a 
+ViuTV6,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004620&user=96926859&tsum=cbf79cf52100ccbee8821ed6e26753b1 
+RTHK 31,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004621&user=96926859&tsum=eb9d7c55efd98741e261ab6e5898e5f4 
+RTHK 32,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004622&user=96926859&tsum=1b9eeab7ec75a75354b0d920eb4c7430 
+RTHK 33,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004623&user=96926859&tsum=33b06ff006e811a967dcb66765b29ad9 
+RTHK 34,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004624&user=96926859&tsum=7b8ccafa232b59834535e6240a2ec2a5 
+RTHK 35,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004625&user=96926859&tsum=ac499e4a2db71149d871df37d98e225e 
+RTHK 36,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004626&user=96926859&tsum=cbd39b7bb5d45a8f965de4853097f023 
+新时代1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004627&user=96926859&tsum=b181b2aa63b0e2b4bc16512d886777e6 
+新时代2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004628&user=96926859&tsum=e9f037d3ed52f682ffdba9c281503d22 
+城市电视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004629&user=96926859&tsum=8de213d156a8acecb954c0c172b7ba69 
+中旺电视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004630&user=96926859&tsum=3084beb9d89b77520b655075e10aa628 
+FashionBox,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004631&user=96926859&tsum=6fc36dd698fbd1e00623fa75ae71846f 
+tvN,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004632&user=96926859&tsum=1377d1d1cb941675ede040afbd0fa963 
+ROCK超级娱乐,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004633&user=96926859&tsum=12145b0075e7c4ccf99dcc184603739c 
+ROCK综艺娱乐,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004634&user=96926859&tsum=d1083cca65d60b4aa036469bd9b94f12 
+神州新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004635&user=96926859&tsum=abf6aaa0b2ca942f43bb133640d39d02 
+HKC18台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004636&user=96926859&tsum=46af1e37dfa832e35e7a67b45848acb5 
+黄金翡翠台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004637&user=96926859&tsum=fc766c1e4a818291cf20dbb8ae814304 
+C18跑马,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004638&user=96926859&tsum=7fb9276565f698d82937a64ac2ceb5a8 
+千禧经典台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004639&user=96926859&tsum=cf6aff3cfe868c7ee527440855bc8b60 
+MyTV千禧经典台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004640&user=96926859&tsum=1ec864959d54deff5e658486cc4e562b 
+亚洲剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004641&user=96926859&tsum=93ed3cd9963686ac4d2a216f4f58aa8b 
+华语剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004642&user=96926859&tsum=cbdde8e29c1d00279637a69c063ebadf 
+Kix,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004643&user=96926859&tsum=e0beee0066cf3aabe83f40b63e6defe7 
+TVB娱乐新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004644&user=96926859&tsum=a570922f202670487ab3b61a06a98865 
+亚洲综合娱乐台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004645&user=96926859&tsum=6f94aa9a07db0a4919a4f400e2012b3c 
+黄金华剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004646&user=96926859&tsum=60482ad5aa204987f981dcf24ba40ca1 
+TVBSuperFree,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004647&user=96926859&tsum=48d3d5e4ba359e0c0c6a8ae56c10f0f4 
+戏曲台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004648&user=96926859&tsum=8ab42d60153038fa93d2d2df159b76a8 
+Hands UP,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004649&user=96926859&tsum=2efdd9d930746616fb38f95c4630dbad 
+ZooMoo,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004650&user=96926859&tsum=354d3882e6e361532777c9df6d6d23c5 
+Nickelodeon,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004651&user=96926859&tsum=838db5d34e733fcb8a9aef6d38fc88c6 
+NickJr儿童频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004652&user=96926859&tsum=89dec1270e493fc964a2ef1ae34383c9 
+DreamWorks,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004653&user=96926859&tsum=b04de55b7d128348253cb5622b1bee03 
+粤语片台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004654&user=96926859&tsum=3a1ee06bf99f26e8aa1862aa6721e492 
+美亚电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004655&user=96926859&tsum=881de574e0fe074da7e21cff8456260e 
+TaiWan,#genre# 
+HBO,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004656&user=96926859&tsum=6f7e28ee95475738c730677c7cbd150a 
+HBOHits,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004657&user=96926859&tsum=ae8515f6d0b739a4050e7e67ee01fe63 
+HBOFamily,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004658&user=96926859&tsum=8cd97ea02ea80a77c14d3335b280d06f 
+HBOSignature,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004659&user=96926859&tsum=f1744aca4e12e9e4981ba0b911a5bfcb 
+Cinemax,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004660&user=96926859&tsum=9579f852afc1b393a02f154e231dd652 
+AXN,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004661&user=96926859&tsum=403a0cd77fc603e53ad6d3658e677ca4 
+MovieMovie,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004662&user=96926859&tsum=88b419874e30b99c43b04c894c414c23 
+Animax,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004663&user=96926859&tsum=0765d0ddd8c5f31612305017674c70a6 
+Love Nature,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004664&user=96926859&tsum=8201223e795b1d59310e6d214d8826b0 
+Global Trekker,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004665&user=96926859&tsum=18144d52c96073284912576fa601a9a0 
+CreationTV,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004666&user=96926859&tsum=4d73b04b282973ed1de863e7efa7675f 
+Mezzo Live,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004667&user=96926859&tsum=d037238ce59ccbe95a6cca2b212129ba 
+mySUPER直播足球3台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004668&user=96926859&tsum=0925dbf74f260f48f5e4d90a7f5fd300 
+mySUPER直播足球4台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004669&user=96926859&tsum=d6bdf80acae304a9ca3bd0197100959f 
+mySUPER直播足球5台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004670&user=96926859&tsum=006684b8c2db52763d4d0da927203a0a 
+mySUPER直播足球6台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004671&user=96926859&tsum=8e9bcd0bfe0b91b910e8bbc4f794548f 
+中视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004672&user=96926859&tsum=c54d815d96f504ca5ea0e7db71a2084f 
+中视新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004673&user=96926859&tsum=eabce6691a37500c62a2ad093400cb61 
+中视经典,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004674&user=96926859&tsum=48398d50bef05c76fb6a5b82856c4280 
+中视菁采,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004675&user=96926859&tsum=2312c975182637cee918ec4e49eaaf4b 
+公视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004676&user=96926859&tsum=3da7476c96b1d6fa3abc539fda53231c 
+小公视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004677&user=96926859&tsum=1870331df845ade5137b4236db9eadd7 
+公视戏剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004678&user=96926859&tsum=e475df7bffae33861e1e49c93cdcfb41 
+公视台语台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004679&user=96926859&tsum=0a176fe7d8e4fd6ab65c52844967987b 
+公视新闻网,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004680&user=96926859&tsum=4977735e9dfac8c2f489c0e5c48d3d3d 
+民视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004681&user=96926859&tsum=d94985fb46fba24d6af81a2fc051375d 
+民视第一台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004682&user=96926859&tsum=0f0cc2ec16fb01aaebcb329d120ea151 
+民视台湾台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004683&user=96926859&tsum=a6ce279862728953a750902dc8c1de39 
+民视新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004684&user=96926859&tsum=57dfa1fd10f7d2b2111348feb608bf11 
+民视影剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004685&user=96926859&tsum=e930eeafdc2c3bb959c538daba9189f1 
+民视旅游台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004686&user=96926859&tsum=ddb9c3fb17b903fe9f42e0a4dfce83d6 
+民视综艺台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004687&user=96926859&tsum=6b4616a655ecffc54168d28b8a29b5af 
+台视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004688&user=96926859&tsum=bc5ea2b22b82069b9914c4e244f7c209 
+台视新闻HD,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004689&user=96926859&tsum=ac94be8d0807b3f170a29ac741941720 
+台视综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004690&user=96926859&tsum=fccda18b5305ddf0090047346cd3f2da 
+台视财经,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004691&user=96926859&tsum=1db90acb27ab8ba94d6ff961b3826108 
+台湾戏剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004692&user=96926859&tsum=b1e06d0a0d811710c8f5a676543e0b46 
+华视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004693&user=96926859&tsum=31aa2183aec5a0a11063139c8be11a77 
+CTS华视新闻资讯,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004694&user=96926859&tsum=fa28d11a31eaf272a329c771bd3bc26d 
+霹雳台湾台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004695&user=96926859&tsum=69d62ce0ab5a8ba678217665f4027bd4 
+壹新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004696&user=96926859&tsum=0fc5cefca1261fa18856d11288c6dba9 
+壹电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004697&user=96926859&tsum=817f8a035e8183f14ea7e7b2a43a38c7 
+JET综合台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004698&user=96926859&tsum=18c12a34c5d93b8577f77f53398940de 
+年代新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004699&user=96926859&tsum=9b50cf3f79094b351b3024d442f73032 
+年代Much,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004700&user=96926859&tsum=7028efd2672fecf620a85522f1453ae4 
+非凡新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004701&user=96926859&tsum=5dca1f66abba5bd77fb43f54ba17ca25 
+非凡商业,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004702&user=96926859&tsum=7adeca2aae33355d7fb95d0400cbc216 
+寰宇新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004703&user=96926859&tsum=9d26924c1bf8ddad266da18f44154a4a 
+寰宇新闻台湾,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004704&user=96926859&tsum=410981eba71229154e6b647ad9a3a2c3 
+寰宇财经,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004705&user=96926859&tsum=5f6545c9be1fb7d7d39ab0c0c8cf0066 
+镜新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004706&user=96926859&tsum=504bbd23db1299f316553e59aef9c820 
+东森超视美洲,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004707&user=96926859&tsum=d640107be0548d9ef1c53f873a750d02 
+东森美洲,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004708&user=96926859&tsum=39a4bd1e36adbf976b89616090e3fa12 
+东森美洲卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004709&user=96926859&tsum=795458f235ccb0b8b949f433a3e4596c 
+东森中国台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004710&user=96926859&tsum=c353a6433d8fdc71c07ecd765a3e2b07 
+东森超视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004711&user=96926859&tsum=db62fd350bdd538a5c35120c93cd41ad 
+东森亚洲,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004712&user=96926859&tsum=fca69bca3f75f4ac98a301cdad3a658e 
+东森综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004713&user=96926859&tsum=025e4354591cd7723a583b1d2d6eddd3 
+东森新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004714&user=96926859&tsum=69eb761ad8fc805a9ab651f398ecc5d5 
+东森财经,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004715&user=96926859&tsum=6ce6bb8a8cec95131cc2e66aee3811f6 
+东森LIVE,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004716&user=96926859&tsum=c4103be3facdaecbb22a206c70e8cb82 
+东森电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004717&user=96926859&tsum=4b6b1fdb6f296b61f7ce4c869fa9a221 
+东森洋片,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004718&user=96926859&tsum=e1905f0c676f248fa53a192b36a10dee 
+东森戏剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004719&user=96926859&tsum=107f17fae5d0df4a6aab31d554326f59 
+东森幼幼,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004720&user=96926859&tsum=dfa6e893ca734e97811396f76d4d5b87 
+东森亚洲幼幼,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004721&user=96926859&tsum=d2e3197a301e1ced024f9fe7ceed72a3 
+MOMO综合台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004722&user=96926859&tsum=2f8ee91cf57b90d7e4c506b6d83674b3 
+MOMO亲子台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004723&user=96926859&tsum=0893a9bc3b54c0668954c91c6698a9ec 
+MOMO台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004724&user=96926859&tsum=34216a9b7cd74ac68bfbb628dd6a4472 
+国兴卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004725&user=96926859&tsum=3641de1c9a7ca9284a94314349039aea 
+龙祥时代,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004726&user=96926859&tsum=fb7d726aa6a11341200fab4288787e53 
+龙华偶像,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004727&user=96926859&tsum=a528d4b814f73d550e354d3bdcd597d9 
+龙华戏剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004728&user=96926859&tsum=47c04de9746cb2bc784b005bd5552a1d 
+龙华日韩,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004729&user=96926859&tsum=03ccc35ba0e0467c943560c027edcf99 
+龙华电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004730&user=96926859&tsum=6c9f57e267c33a5b2210e5898111dbc7 
+龙华影剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004731&user=96926859&tsum=45cdda8415b2879d2e6ab743e177be87 
+龙华洋片,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004732&user=96926859&tsum=30c746e862f3b154949f64a119807606 
+龙华卡通,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004733&user=96926859&tsum=b7fff4a826ae51654fdf2fd03dac4235 
+龙华经典,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004734&user=96926859&tsum=394c14ae566501cd926bf9cb06b4f120 
+三立都会台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004735&user=96926859&tsum=fdae059a095a9d610e0234281c018510 
+三立综合台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004736&user=96926859&tsum=26197cb3bc533a6ca38b654e642c730f 
+三立台湾台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004737&user=96926859&tsum=4017cce043c4e647fbe38a4fec4aa02b 
+三立戏剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004738&user=96926859&tsum=5ed861004c5bee26534da3c3968aca48 
+三立新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004739&user=96926859&tsum=e1a9b46144f9802fbaecec4862528472 
+三立iNEWS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004740&user=96926859&tsum=7377052668c0e074da31944d263ba614 
+三立国际台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004741&user=96926859&tsum=76b062865dc5d4fb5d4ee397aecfe040 
+LIVE三立,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004742&user=96926859&tsum=0bca0e15b108352340ee3ccdf1d60795 
+中天新闻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004743&user=96926859&tsum=0311ad30bfc16ded81b61fc2385ec121 
+CTI+中天2台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004744&user=96926859&tsum=ab10d8e2f971036b66201fb00fa9567f 
+中天综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004745&user=96926859&tsum=14eb8f7c7c4bf2b94859f03d50b91c45 
+中天娱乐,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004746&user=96926859&tsum=9ef5043063120cff5489fdbc50bb7601 
+纬来综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004747&user=96926859&tsum=8620f9d95efaf8657fa340cc2bfbd853 
+纬来精彩,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004748&user=96926859&tsum=1b261e1b7b3270e854227792faa1eca3 
+纬来戏剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004749&user=96926859&tsum=2f99b5aca57129e33bbfba0c44ada111 
+纬来日本,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004750&user=96926859&tsum=35badd0222a2b20ccd23c0b558194ad5 
+纬来育乐,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004751&user=96926859&tsum=35e1e064833d74ea72c7041c3dd8f905 
+纬来电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004752&user=96926859&tsum=e9aae1796f7c7fa2897fa137fdae4b36 
+纬来体育,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004753&user=96926859&tsum=11a3ac32a749bdee7f9262248c40ed68 
+八大第一台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004754&user=96926859&tsum=92bb683b3ec7ace789676d30197f7209 
+八大戏剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004755&user=96926859&tsum=c0863edb74fee00979cf55bbb999efee 
+八大综合台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004756&user=96926859&tsum=20b5feb10b08d08e3fc33dc21b8875a8 
+八大精彩台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004757&user=96926859&tsum=b0c34bc33e970b1f8c96157c4c92ae1c 
+八大娱乐台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004758&user=96926859&tsum=e9bb6a24233393436cef11bfdbc42274 
+TVBS新闻台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004759&user=96926859&tsum=1ab32e07243d0996440509152198a4ad 
+TVBS精采台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004760&user=96926859&tsum=ea0fe09567f4581e77f89dcf5968f9ce 
+TVBS欢乐台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004761&user=96926859&tsum=aa4a66f8a116e134ee5ba090845b83f8 
+TVBSHD,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004762&user=96926859&tsum=856203211bb7f8cf99422d18b7e49f60 
+TVBS NEWS,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004763&user=96926859&tsum=261bf268e6d6391b0ea00f948ff88cee 
+靖天综合台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004764&user=96926859&tsum=27c3c087e297f1a0895455b340ef2a15 
+靖天日本台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004765&user=96926859&tsum=83c6d5d81b9548d65b4d8167316f29a0 
+靖天卡通台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004766&user=96926859&tsum=6305cb3b72ed5d9ef493afec6796f3b1 
+靖洋卡通台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004767&user=96926859&tsum=1ef6ae4d3d65feb8848605be5ac94b22 
+靖天电影台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004768&user=96926859&tsum=b21c5db61db5d82a7272201ee4ef40cb 
+靖天资讯台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004769&user=96926859&tsum=1ca78ee97cec8390867c9f4f0adf1d49 
+靖天国际台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004770&user=96926859&tsum=6eedf9704323645f3ac8e000a501253e 
+靖天戏剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004771&user=96926859&tsum=d5d8d7526dfd2156ee1ed7441d2a0faa 
+靖洋戏剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004772&user=96926859&tsum=097a31e8225c26c419d8920c30512342 
+靖天育乐台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004773&user=96926859&tsum=b6474d817665d23f267ccacd6909bff0 
+靖天映画台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004774&user=96926859&tsum=ce6f488461c123267e8d86c9e8741db4 
+靖天欢乐台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004775&user=96926859&tsum=4850dc5d5de6a97c7475885b1b203808 
+华艺MBC综合台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004776&user=96926859&tsum=3ee8243ee117255af1e6f0c75140b0f5 
+LUXE TV,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004777&user=96926859&tsum=39ca1926e230449ca1e7a4bc550548bf 
+Trvl旅游台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004778&user=96926859&tsum=dd852c03b1168d7ed33d178fc1132a06 
+美食星球,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004779&user=96926859&tsum=c8874019508fffb1d135dee9c96eb03c 
+亚洲旅游台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004780&user=96926859&tsum=2dd54b717e2cf887bed970c435632633 
+EYETV旅游,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004781&user=96926859&tsum=cec957820eab88c29d1574bab2ea9a73 
+EYETV戏剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004782&user=96926859&tsum=29888b64ca5ed6d50508354abb8e21b3 
+ELEVEN1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004783&user=96926859&tsum=beea86bdc99d2b440a221f14bc09f780 
+ELEVEN2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004784&user=96926859&tsum=21ee542c0db796499490793d200e9f4e 
+ELTA日韩,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004785&user=96926859&tsum=f5d2e40244e3aaf65e599443e7d080ce 
+ELTA影剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004786&user=96926859&tsum=ef2477fb09924d2499de3962a6aa190b 
+ELTA综合,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004787&user=96926859&tsum=4fcaf8f419ed1d83e729f0439d51243b 
+ELTA娱乐,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004788&user=96926859&tsum=4aeb483e572d6a7e6c9b310fa6886fd9 
+ELTA生活旅游,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004789&user=96926859&tsum=f52051c6e08529cc6d20c0d3f6256e17 
+ELTA体育1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004790&user=96926859&tsum=b31fda5fd42b02cd3a1e01fbf8375e72 
+ELTA体育2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004791&user=96926859&tsum=581cd1ce4e84b6cdd40449568399ec1d 
+ELTA体育3,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004792&user=96926859&tsum=7cc9df58906bafe568b3c10e2af7b635 
+ELTA体育4,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004793&user=96926859&tsum=b72e19c6fda0908a0f1a788cf645a65e 
+ELTA体育MAX1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004794&user=96926859&tsum=180f2172ae61feae147ea74b52e8a1c7 
+ELTA体育MAX2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004795&user=96926859&tsum=bc3773f76122d483da4110010a27c397 
+ELTA体育MAX3,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004796&user=96926859&tsum=e80fea9ea5a79d8822a4ccda59f04edd 
+ELTA体育MAX4,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004797&user=96926859&tsum=8c5a341a83cb8c5ac0ae24b4ee7b235c 
+GinxTV电竞频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004798&user=96926859&tsum=84fda822a39208937bfc5599972f11e6 
+博斯运动1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004799&user=96926859&tsum=ae9e628b6fb3d3c98666bfcb5fa73160 
+博斯运动2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004800&user=96926859&tsum=b3dee8f467d248875e1a4f8cbcb8bc24 
+博斯高球1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004801&user=96926859&tsum=eff7cab74a0df943f6cb1af4a757f87f 
+博斯高球2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004802&user=96926859&tsum=4349628b26deb3edc49c8fb33fb0f2fd 
+博斯网球,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004803&user=96926859&tsum=811d8e83bd87427e22ec93d498d5986b 
+博斯无限,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004804&user=96926859&tsum=656eda928508ab68ce50da82d847939e 
+博斯无限2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004805&user=96926859&tsum=965411dd32e03a693c5f029535e3da92 
+博斯魅力,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004806&user=96926859&tsum=a8e369861ec94fdf5fd6e420f45a24f8 
+智林体育台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004807&user=96926859&tsum=d7b77bc26e2cae3ea4e38a257c8e290e 
+TRACESportStars,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004808&user=96926859&tsum=2d13da57c41b7a7b2ef1610fe714a58c 
+i-Fun动漫台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004809&user=96926859&tsum=209af5b2a6a0ae1728c5405734fbcf86 
+Cartoonito,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004810&user=96926859&tsum=12a107e0fae5dea2b756dc984926ed20 
+CN卡通频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004811&user=96926859&tsum=7a8b3cc88e45a0053eec8d11392bb9c4 
+尼克儿童频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004812&user=96926859&tsum=93af8f514e402e85da1bcd9594f6733b 
+Boomerang,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004813&user=96926859&tsum=5798356af02d0975f9ede29576eeea79 
+BBC Cbeebies,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004814&user=96926859&tsum=dd213627b7e336820a31c2bcc67e221e 
+梦工厂动画,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004815&user=96926859&tsum=151bbbf4d03d6de3dc9bc9c188db0295 
+儿童卡通台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004816&user=96926859&tsum=843723f929acaa12079ed3290f4a97a7 
+PetClubTV,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004817&user=96926859&tsum=dbfce929405e18519c4d33104879e0b8 
+精选动漫台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004818&user=96926859&tsum=5fe95bfe3af4a97c15570a379d4dd7ff 
+经典卡通台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004819&user=96926859&tsum=fc9a7b08c654bb2926a80ad872f34dec 
+美亚电影台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004820&user=96926859&tsum=e2791eda56ef4b5fabf3ba76cdc6059c 
+Thrill惊悚,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004821&user=96926859&tsum=b94799af73319a1f738145f23557ffc2 
+AXN频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004822&user=96926859&tsum=9936d35681a77f486d2fbd002b0aada8 
+华纳电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004823&user=96926859&tsum=ad24fdbd64e7780ad05e0978940be40c 
+tVN,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004824&user=96926859&tsum=f5b799405d21f90b1017a48acacfb1eb 
+StarMovies,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004825&user=96926859&tsum=275d92a34f66ea63d797019af99a6701 
+CinemaWorld,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004826&user=96926859&tsum=74d452d755e3503d1d3058a714dd2a28 
+CINEMAX,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004827&user=96926859&tsum=96bbbfe28cfb615b28aa129f404162e8 
+HBOHD,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004828&user=96926859&tsum=ca774f1566836771b4479003b36b049a 
+HBO原创,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004829&user=96926859&tsum=c1872e0cfbcbf25f6b03f598ae78773b 
+HBO强档,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004830&user=96926859&tsum=bc7242ac6cfbaa8c98312cee7f93c531 
+HBO家庭,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004831&user=96926859&tsum=c531bba5024b52db75c273948ee09e63 
+好莱坞电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004832&user=96926859&tsum=502602f92884b94fc16f0100049484c7 
+amc最爱电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004833&user=96926859&tsum=e4b918777d4902422d8d027e46fb9893 
+CatchPlay电影台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004834&user=96926859&tsum=848f49525707242b4039c53e9534fd76 
+RockEntertainment,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004835&user=96926859&tsum=f340e4e4b744fff1ca5fc5bfe9c028c6 
+RockAction,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004836&user=96926859&tsum=c4c4f401abe706e13603a21a840f082d 
+RockExtreme,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004837&user=96926859&tsum=5f577944e30cc46518e3cb13a78b5ebe 
+MyCinemaEurope,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004838&user=96926859&tsum=efb21a9350671cb6a368489a3cc33b9b 
+经典电影台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004839&user=96926859&tsum=fb64f9567ac439c25a571af4038b80c0 
+采昌影剧台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004840&user=96926859&tsum=1cdde9fb61ab76e69bd173a2c55320a2 
+达文西频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004841&user=96926859&tsum=7a45f790a5dae01888bdfbe9ec04690e 
+Smart知识台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004842&user=96926859&tsum=d1a5967c712f54e5c4b81d65d8b19727 
+电影原声台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004843&user=96926859&tsum=99ccf1ac80bb0743ef7aeb07ec584ef2 
+客家电视台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004844&user=96926859&tsum=e8586b782d72faa4cddc665039872ee3 
+信大,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004845&user=96926859&tsum=829a39edffeb4886bc9ac447db1842d2 
+原住民频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004846&user=96926859&tsum=22a76d0a9683ce3ed3362f1f4e625904 
+新唐人亚太台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004847&user=96926859&tsum=75a34e49b50cbae41bef6b16f6a63a8f 
+VOA美国之音,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004848&user=96926859&tsum=ad396887614a6205ec0f3aaaf31657d6 
+MTV音乐频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004849&user=96926859&tsum=06446df7d20994ea02c0dfa3bfa7df30 
+古典音乐台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004850&user=96926859&tsum=28f73f49aa09ed115e770f339a7be011 
+KMTV韩国娱乐台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004851&user=96926859&tsum=16e21587079d974ed002410dfcd9cbb9 
+猪哥亮歌厅秀,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004852&user=96926859&tsum=05fc21f7fd82ae6294fc8233c77eaabe 
+幸福空间居家台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004853&user=96926859&tsum=b6a119962be97505d167faefa342837a 
+空中英语教室,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004854&user=96926859&tsum=193266b912a335900578db2cc1e242c2 
+ELTV生活英语台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004855&user=96926859&tsum=420137f3b1d10daa9baef97591288438 
+互动英语频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004856&user=96926859&tsum=ae01f4006cd7c0b53f71ad84a41bc05f 
+BBC Earth,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004857&user=96926859&tsum=87d51f912de427166712d2bb6d357c8d 
+BBC Lifestyle,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004858&user=96926859&tsum=2d4b020bc25f3a0f59719af4cf61687b 
+BBC News,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004859&user=96926859&tsum=c770cb94e45d3aa78cceb9c1f2e0ade8 
+HISTORY2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004860&user=96926859&tsum=1e1c996df049b1de6c6190d1cae9e1f0 
+INULTRA,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004861&user=96926859&tsum=b2c77fbe5796646379c298686082438c 
+国家地理,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004862&user=96926859&tsum=d2d820b47422be58f3beaee8512610c9 
+国家地理野生海外版,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004863&user=96926859&tsum=6fdcd235d8368dd8996411443ca74e96 
+动物星球,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004864&user=96926859&tsum=50cb60040d2581b6c34b1cafc768f127 
+探索频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004865&user=96926859&tsum=eb87a8cb5b44bd381fd69dddb36d4ef0 
+探索动力,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004866&user=96926859&tsum=d2596197513c412ffdd24f501410d152 
+探索科学,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004867&user=96926859&tsum=b7fc6ea6c9b48e210d233621c9db2064 
+探索亚洲,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004868&user=96926859&tsum=4106e0510fc7c8757fc8df23342b2c81 
+探索EVE,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004869&user=96926859&tsum=7259b99538f832d747638638ebcd8a16 
+居家乐活频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004870&user=96926859&tsum=7c9aa233a3ecff25f3d44d6b4cf8e004 
+CI罪案侦查频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004871&user=96926859&tsum=4fbc54e3b94f1a6691cceea6441a17ee 
+亚洲美食频道,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004872&user=96926859&tsum=98239c02fc0acaac72b6521f424fed1d 
+人间卫视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004873&user=96926859&tsum=17c911d19c7688924199a6bd4975d6c3 
+大爱一台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004874&user=96926859&tsum=7ceb8bc6ea996b5e6af5193ed1b40e8a 
+大爱二台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004875&user=96926859&tsum=c9492611f6103f555565b1dcc3d3ad21 
+生命电视台,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004876&user=96926859&tsum=2d142e8621cda457062648d34d2eaf21 
+唯心电视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004877&user=96926859&tsum=73b3d55bf1944590c90349a8bf369c3a 
+创世电视,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004878&user=96926859&tsum=25592b6cae3b15626befcd767107ef73 
+好消息,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004879&user=96926859&tsum=faa53c5dd1cc349396a88f3eea3518a9 
+好消息2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004880&user=96926859&tsum=a452ec2c59ecdfb817b236d6be7484d9 
+国会频道1,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004881&user=96926859&tsum=d9ef3352f3166ec3ccf988b707caff21 
+国会频道2,http://itv.425555.xyz/tvapi.php?tvplay&cid=1004882&user=96926859&tsum=b4db78a6fac6eb798de893a839a1eab2 
+MOVIE,#genre# 
+一眉道人,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006250&user=96926859&tsum=6e4f05e6bb377d879861509392b96a63 
+人吓鬼,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006251&user=96926859&tsum=072b87cb810f8638a0fac8fc365541d5 
+人吓人,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006252&user=96926859&tsum=bee1273c88c9d00ed4e917f0f8f516e0 
+驱魔警察,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006253&user=96926859&tsum=dac49df605c0d14e9bd2254ee8bb0969 
+僵尸至尊,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006254&user=96926859&tsum=0161bb8ec9a5f0390da296529bb92447 
+灵幻先生,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006255&user=96926859&tsum=e8b387f9146cea2fc70c1edea51d056e 
+鬼打鬼,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006256&user=96926859&tsum=e11f76fbbd17b1e0728e6f2def036180 
+学校风云,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006257&user=96926859&tsum=b36490262e4d11ffd06aef1a23a014ae 
+笑傲江湖,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006258&user=96926859&tsum=c07f0162ffddb834b033034f72ba6d95 
+陆小凤传奇之绣花大盗,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006259&user=96926859&tsum=a1a6ac7b1a3b0de26b90f5462b73df58 
+侠女,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006260&user=96926859&tsum=7a524422cfba23a583faa3d9c13f1da2 
+灵幻至尊,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006261&user=96926859&tsum=0797ab3afee6d3b85b3e6e8edad06e4d 
+中国最后一个太监,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006262&user=96926859&tsum=e1e2ea846b9a53f646695f0a4cc346d7 
+死亡游戏,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006263&user=96926859&tsum=91e6f30b6aa4e4871a7a2f9b1ac6ce93 
+僵尸,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006265&user=96926859&tsum=38da101865a6b0580496412d97cc0f70 
+驱魔道长,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006266&user=96926859&tsum=783ccb6c5794408d3878948a92b7d73a 
+多情剑客无情剑,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006267&user=96926859&tsum=1b1c81f39ad47cf771015b3646ea0bce 
+精灵变,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006268&user=96926859&tsum=5da5e81d8826dfd31bc43fec64a96a60 
+舞台姐妹,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006269&user=96926859&tsum=1617d115f1a32df28203850429709084 
+天地玄门,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006270&user=96926859&tsum=a90930ce3ad2c06dc76a03a61142f995 
+电影_贺岁,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006271&user=96926859&tsum=09a6c3415a594005dcdc21086d099d1d 
+电影_玄幻,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006272&user=96926859&tsum=7b3e5617a7d7003f19cf698afd368bbf 
+电影_谍战,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006273&user=96926859&tsum=5f1052d2d707f64bed07afe58b8a94bd 
+电影_战争,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006274&user=96926859&tsum=1009bffabc59148e770184beed1576d0 
+电影_喜剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006275&user=96926859&tsum=fb64c64a7e0be417cdc5867dda7b43fe 
+电影_国产,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006276&user=96926859&tsum=61884888a06ec81ea3fa4ad6df7ef8cb 
+电影_周星星,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006277&user=96926859&tsum=d4650dbba0bcb48b53e5fc39520fe1d8 
+电影_梁家辉,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006278&user=96926859&tsum=4b50263bba8e204bb3ed0e14b9783dc2 
+电影_斯坦森,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006279&user=96926859&tsum=ac126d56ebcd3679f448ee33d41b6062 
+电影_八点档,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006280&user=96926859&tsum=91275b15af56d8a9cd30f8e27a80ccf5 
+电影_蜘蛛侠,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006281&user=96926859&tsum=01df792058acd465453666a411613154 
+电影_贺岁片,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006282&user=96926859&tsum=22d9d1b2a79318e559aa8905a269a02a 
+电影_功夫片,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006283&user=96926859&tsum=aa0230c5edc8af03cd950aaf0770713c 
+电影_黑帮片,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006284&user=96926859&tsum=5857813e521142297a9c9d2dc69520a3 
+电影_丧尸片,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006285&user=96926859&tsum=bb52f0e8a6376497214fb61b5a1b25eb 
+电影_灾难片,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006286&user=96926859&tsum=dc4b481baa06e4cb5872d028bd0571d0 
+电影_谍战片,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006287&user=96926859&tsum=0d2468a95b97299e9d9b7ef526bb072b 
+电影_战争片,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006288&user=96926859&tsum=0427508ae80e1f31aa15e4cc22daeb25 
+电影_犯罪片,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006289&user=96926859&tsum=55125f76abcbffcd05ba53947eb288e1 
+电影_古装片,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006290&user=96926859&tsum=c21ad40f9936e92fbc3172f5a0faf58e 
+电影_高分动作,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006291&user=96926859&tsum=e59fb58b720f067299c1f38ffb55fe52 
+电影_动作电影,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006292&user=96926859&tsum=fb7c6457f3cdd4fbed095a2ac3e14bdd 
+电影_搞笑喜剧,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006293&user=96926859&tsum=58d2795b6e0a65702eac5a63bbdd216e 
+电影_喜剧专场,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006294&user=96926859&tsum=d2a568f81f405c0efa426cee615887bf 
+电影_欢笑影院,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006295&user=96926859&tsum=9bc5c2c7b4187e84eb0c93f724c85cbb 
+电影_不挤影院,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006296&user=96926859&tsum=95fca6d729ef4f3ad7ba23df0a3a69e8 
+电影_国产悬疑,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006297&user=96926859&tsum=5f742c9cd0d491cbbbcb64caa4957b45 
+电影_快意江湖,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006298&user=96926859&tsum=982236917e9702efa42c020aceedff23 
+电影_黑帮斗争,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006299&user=96926859&tsum=10db791635f048c897236edb42271630 
+电影_嫣然影厅,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006300&user=96926859&tsum=62d7519ccb4b22473286198c4970396b 
+电影_经典港片,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006301&user=96926859&tsum=2305622ed9df77ff02c286784f498a49 
+电影_镖行天下,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006302&user=96926859&tsum=22ffd437fef0133e64f2133b5143cb1c 
+电影_高能反转,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006303&user=96926859&tsum=37d3a36ab715f5d5cacfb9a6a842a41c 
+电影_喜乐影院,http://itv.425555.xyz/tvapi.php?tvplay&cid=1006304&user=96926859&tsum=ed3f629882a096d43e83b824dd467b8c 
