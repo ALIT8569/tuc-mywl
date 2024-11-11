@@ -1,0 +1,11 @@
+云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
+云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
+云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
+云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
+云南国际,http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
+宁夏公共频道,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
+宁夏经济频道,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
+宁夏少儿频道,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+宁夏电视台影视频道,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+NewTV精品大剧,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/1.m3u8
+NewTV精品记录,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
